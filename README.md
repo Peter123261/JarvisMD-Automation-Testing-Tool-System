@@ -369,5 +369,5 @@ MIT License - see LICENSE file for details
 
 ---
 
-**Built Peter Olamojin**
+**Built by Peter Olamojin**
 
