@@ -1,0 +1,44 @@
+#### Presenting Complaint
+  * Cough and cold
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Patient has been experiencing a cough and cold for about 5 days.
+    * Symptoms include a dry, hacking cough, runny nose, muscle aches, and cold chills.
+    * No phlegm or blood is being produced with the cough.
+    * No shortness of breath, wheezing, or rattling noises in the chest.
+
+  * **Past Medical History**  
+    * Patient has been diabetic for 5-6 years.
+    * Patient has hypertension.
+
+  * **Review Of Systems**  
+    * Respiratory: Dry, hacking cough, no phlegm, no blood, no shortness of breath, no wheezing or rattling noises.
+    * General: Muscle aches, cold chills.
+
+  * **Current Medications**  
+    * **Medication name**: Metformin  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+    * **Medication name**: Lisinopril  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+
+  * **Allergies**: nil recorded  
+  * **Social History**: nil recorded  
+  * **Physical Examination**  
+    * Mild redness at the back of the throat.
+    * No enlarged tonsils.
+    * No palpable glands around the neck.
+
+
+#### Assessment
+  * Likely viral infection causing cold and cough. No signs of chest infection or other complications.
+
+#### Plan
+  * Patient advised to use over-the-counter medications like Night Nurse, which are safe with current medications.
+  * Patient advised to monitor symptoms and seek further medical attention if experiencing shortness of breath, wheezing, or if symptoms persist for more than 3 weeks.
+  * No prescription required at this time.
+

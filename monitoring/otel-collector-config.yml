@@ -1,0 +1,46 @@
+receivers:
+  otlp:
+    protocols:
+      grpc:
+        endpoint: 0.0.0.0:4317
+      http:
+        endpoint: 0.0.0.0:4318
+
+processors:
+  batch:
+    timeout: 100ms  # Reduced from 1s for faster trace export (ensures traces reach Tempo quickly)
+    send_batch_size: 10  # Reduced from 1024 for smaller batches (faster export, lower latency)
+  resource:
+    attributes:
+      - key: deployment.environment
+        value: development
+        action: upsert
+
+exporters:
+  # Export traces to Tempo
+  otlp/tempo:
+    endpoint: tempo:4317
+    tls:
+      insecure: true
+  
+  # Export metrics to Prometheus (expose metrics endpoint)
+  prometheus:
+    endpoint: "0.0.0.0:8889"
+    const_labels:
+      service: "medbench"
+  
+  # Debug exporter for debugging (optional)
+  debug:
+    verbosity: normal
+
+service:
+  pipelines:
+    traces:
+      receivers: [otlp]
+      processors: [batch, resource]
+      exporters: [otlp/tempo, debug]
+    metrics:
+      receivers: [otlp]
+      processors: [batch, resource]
+      exporters: [prometheus, debug]
+

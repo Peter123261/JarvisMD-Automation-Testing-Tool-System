@@ -1,0 +1,44 @@
+# Development overrides with hot reload and volume mounts
+services:
+  api:
+    volumes:
+      # Mount source code for live editing
+      - ./jarvismd:/app/jarvismd
+      - ./data:/app/data
+      - ./requirements.txt:/app/requirements.txt
+      - ./setup.py:/app/setup.py
+      # Named volume for Python cache (faster)
+      - api_pycache:/app/jarvismd/__pycache__
+    environment:
+      - DEBUG=true
+      - RELOAD=true
+    command: uvicorn jarvismd.backend.services.api_gateway.main:app --host 0.0.0.0 --port 8000 --reload
+
+  celery-worker:
+    volumes:
+      # Mount source code for live editing
+      - ./jarvismd:/app/jarvismd
+      - ./data:/app/data
+      - ./requirements.txt:/app/requirements.txt
+      - celery_pycache:/app/jarvismd/__pycache__
+    environment:
+      - DEBUG=true
+
+  celery-beat:
+    volumes:
+      # Mount source code for live editing
+      - ./jarvismd:/app/jarvismd
+      - ./data:/app/data
+      - celery_beat_pycache:/app/jarvismd/__pycache__
+    environment:
+      - DEBUG=true
+
+  flower:
+    volumes:
+      - ./jarvismd:/app/jarvismd
+
+volumes:
+  api_pycache:
+  celery_pycache:
+  celery_beat_pycache:
+

@@ -1,0 +1,69 @@
+#### Presenting Complaint
+  * Chest pain
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Pain started 30 minutes ago while shoveling the driveway.
+    * Pain is located on the left side of the chest.
+    * Pain has been worsening since it started.
+    * Described as a dull pain with a lot of pressure.
+    * Pain rated 7 out of 10.
+    * No previous episodes of chest pain.
+    * Pain worsens with movement and laying down, no relief with any position.
+    * Associated symptoms include shortness of breath since the pain started and feeling hot with a measured temperature of 38 degrees.
+    * No recent injuries except for a rugby tackle the day before, but chest felt fine after that.
+
+  * **Past Medical History**  
+    * High cholesterol
+    * High blood pressure
+    * No hospitalizations
+    * No surgeries
+    * No family history of heart attacks or cancers
+
+  * **Review Of Systems**  
+    * General: Feeling hot, temperature 38 degrees
+    * Respiratory: Shortness of breath, no cough, no recent respiratory infections
+    * Cardiovascular: No swelling in legs, no increased fatigue, palpitations currently, no dizziness or fainting
+    * Gastrointestinal: No nausea or vomiting
+    * Skin: No rashes
+    * ENT: No recent sore throat, runny nose resolved weeks ago
+
+  * **Current Medications**  
+    * **Medication name**: Rosuvastatin  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+    * **Medication name**: Lisinopril  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+    * **Medication name**: Multivitamin  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+
+  * **Allergies**: Nil recorded  
+  * **Social History**  
+    * Lives in a house with family
+    * Works as a bus driver
+    * Exercises regularly, runs on Sundays
+    * Diet is fairly balanced but eats out often
+    * Smokes half a pack to a pack of cigarettes daily for the last 20 years
+    * No alcohol consumption
+    * Uses crystal meth a couple of times a month for the past 7 years, last used 6 days ago
+
+  * **Physical Examination**: Nil recorded  
+
+#### Assessment
+  * Chest pain likely due to a combination of physical exertion and possible underlying cardiovascular issues given the patient's history of high cholesterol and high blood pressure. Differential diagnoses include angina, myocardial infarction, or musculoskeletal pain from recent rugby tackle.
+
+#### Plan
+  * Immediate ECG to rule out myocardial infarction.
+  * Blood tests including cardiac enzymes to assess for heart damage.
+  * Chest X-ray to rule out any musculoskeletal injuries or other causes of chest pain.
+  * Monitor vital signs closely, especially heart rate and blood pressure.
+  * Consider referral to a cardiologist for further evaluation.
+  * Advise patient to avoid strenuous activities until further notice.
+  * Discuss smoking cessation and provide resources for support.
+  * Follow-up appointment to review test results and ongoing symptoms.
+

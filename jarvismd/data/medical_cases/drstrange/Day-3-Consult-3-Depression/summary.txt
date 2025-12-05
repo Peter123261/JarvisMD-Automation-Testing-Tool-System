@@ -1,0 +1,43 @@
+#### Presenting Complaint
+  * Loss of appetite, low energy, and feeling down.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Patient reports feeling down and lacking energy for a long time.
+    * Loss of appetite started approximately 3.5 months ago, coinciding with a change to a new law firm.
+    * Weight loss of less than a stone over the past 6 months.
+    * Patient experiences shortness of breath, particularly in lifts, accompanied by palpitations but no chest pain.
+    * Nausea occurs occasionally but no vomiting, diarrhoea, or blood/mucus in stools.
+
+  * **Past Medical History**  
+    * History of underactive thyroid.
+
+  * **Review Of Systems**  
+    * General: Low energy, feeling down.
+    * Gastrointestinal: Loss of appetite, occasional nausea, no vomiting, diarrhoea, or blood/mucus in stools.
+    * Respiratory: Shortness of breath, particularly in lifts, no cough.
+    * Cardiovascular: Palpitations in lifts, no chest pain.
+
+  * **Current Medications**  
+    * **Medication name**: Thyroxine  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**: Previously taken, not currently taking.  
+
+  * **Allergies**: nil recorded  
+  * **Social History**  
+    * Works as a lawyer.
+    * Experiences stress at work and home.
+
+  * **Physical Examination**: nil recorded  
+
+#### Assessment
+  * Possible depression due to low mood, lack of energy, and loss of appetite.
+  * Possible hypothyroidism relapse due to discontinuation of thyroxine and associated symptoms.
+
+#### Plan
+  * Order a general set of blood tests to check for anemia, kidney function, liver function, vitamin levels, and thyroid function.
+  * Consider restarting thyroxine if blood tests indicate hypothyroidism.
+  * Evaluate for depression and consider referral to a mental health professional if necessary.
+  * Follow-up appointment to review blood test results and discuss further management.
+

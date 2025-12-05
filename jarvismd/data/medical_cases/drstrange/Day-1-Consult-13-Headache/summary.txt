@@ -1,0 +1,51 @@
+#### Presenting Complaint
+  * Patient presents with a severe headache that has been ongoing for three days.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Headache started around three days ago.
+    * Pain is mainly around the right eye but feels like it's all over the head.
+    * Headache is constant but varies in intensity, rated 8/10.
+    * Pain is described as dull but can become sharp.
+    * Headache has been worsening over the last three days.
+    * Ibuprofen taken for the last two days with no relief.
+
+  * **Past Medical History**  
+    * No personal history of migraines.
+    * Family history of migraines: mother and sister.
+
+  * **Review Of Systems**  
+    * Vision: No loss of vision, but experiences shooting lights and photophobia.
+    * Gastrointestinal: Feels sick but no vomiting.
+    * Musculoskeletal: No neck pain or stiffness.
+    * Neurological: No difficulty with speech or weakness in arms and legs.
+    * General: No fever or rashes.
+
+  * **Current Medications**  
+    * **Medication name**: Ibuprofen  
+       **Formulation**:   
+       **Dosage**: 3 tablets a day  
+       **Usage frequency**:   
+
+  * **Allergies**: Nil recorded.  
+  * **Social History**  
+    * Lives with three housemates.
+    * Works in IT, finds it difficult to focus due to headache.
+    * Wears glasses, no recent eye test.
+    * Social smoker and drinks alcohol socially.
+    * Recent stress at work due to a new project.
+
+  * **Physical Examination**: Nil recorded.  
+
+#### Assessment
+  * The headache is likely a migraine, given the family history and the nature of the symptoms.
+
+#### Plan
+  * Increase ibuprofen dosage to 2 tablets, 3 times a day.
+  * Consider prescribing naproxen as a stronger anti-inflammatory.
+  * Add other painkillers like paracetamol or codeine if necessary.
+  * Prescribe codeine as it has been effective for the patient's mother.
+  * Recommend keeping a headache diary to identify potential triggers.
+  * Follow-up in one to two weeks to discuss prophylactic medications if headaches persist.
+  * Advise patient to return if symptoms worsen or if there are any new concerning symptoms like vision changes or weakness.
+

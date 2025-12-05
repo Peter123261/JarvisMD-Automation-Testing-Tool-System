@@ -1,0 +1,133 @@
+Doctor: What brought you in today?
+Patient: Sure. Um, I'm just having a lot of chest pain, um, and so I thought I should get it checked out.
+Doctor: OK. Uh, and before we, uh, start, could you, um, remind me of your, uh, gender and age?
+Patient: Sure, um, 39, uh, I'm a male.
+Doctor: OK. Um, and so when did this chest pain start?
+Patient: It started last night. Uh, but it's becoming sharper.
+Doctor: OK. And uh where is this pain located?
+Patient: Uh, it's located on the left side of my chest.
+Doctor: OK. And so, how long has it been going on for that if it started last night?
+Patient: Uh, so I guess it would be a couple of hours now, maybe like 8.
+Doctor: Um, has it been constant throughout that time, or?
+Patient: Uh, I would say it's been pretty constant, yeah.
+Doctor: OK. And how would you, uh, describe the pain, um, people will use words sometimes like sharp, burning, achy.
+Patient: I'd say it's pretty sharp, yeah.
+Doctor: Sharp, OK. Um, anything that you, uh, have done, tried, um, since last night that's made the pain better?
+Patient: Um, not laying down helps.
+Doctor: OK, so do you find laying down makes the pain worse?
+Patient: Definitely.
+Doctor: OK. Um, do you find that the pain, uh, is radiating anywhere?
+Patient: No.
+Doctor: OK. And is there anything else that makes the pain worse besides, uh, laying down?
+Patient: Not that I've noticed, no.
+Doctor: OK, so not like taking a deep breath or uh anything like that?
+Patient: Um, maybe taking a deep breath.
+Doctor: And um when the pain started, could you, um, think of anything that you were doing at the time?
+Patient: I mean, I was moving some furniture around. That I've done that before.
+Doctor: OK, so you didn't feel, uh, like you, you hurt yourself, um, when you were doing that.
+Patient: No.
+Doctor: OK. Uh, in regards to how severe the pain is on a scale of 1 to 10, 10 being the worst pain you've ever felt. Uh, how severe would you say the pain is?
+Patient: I'd say it's like a 7 or 8. It's pretty bad.
+Doctor: OK. Um, and with the pain, do you have any other uh associated symptoms?
+Patient: Uh, I feel a little lightheaded. And I'm having some trouble breathing.
+Doctor: OK, um, have you, uh, had any um loss of consciousness?
+Patient: No.
+Doctor: OK, um, have you been experiencing any, uh, like racing of the heart?
+Patient: Um, a little bit, yeah.
+Doctor: OK.
+Patient: Um.
+Doctor: The and uh have you been um sweaty at all?
+Patient: Um, just from the, just from having issues breathing.
+Doctor: OK. Have you been having issues breathing since, uh, the pain started?
+Patient: Yes.
+Patient: Yeah.
+Doctor: OK.
+Patient: Mm.
+Doctor: And uh recently, have you had any, uh, periods of time where you, um, like I've been immobilized or, or you haven't been um like able to move around a lot?
+Patient: No, no.
+Doctor: OK. Um.
+Doctor: And um have you been feeling sick at all? Any infectious symptoms?
+Patient: No.
+Doctor: OK. Have you had any nausea or vomiting?
+Patient: No.
+Doctor: Any fevers or, or chills?
+Patient: No.
+Doctor: OK. Uh, uh, how about any abdominal pain?
+Patient: No.
+Doctor: Any urinary problems?
+Patient: No.
+Doctor: Or bowel problems?
+Patient: Mm.
+Doctor: OK, um, have you had a cough?
+Patient: No.
+Doctor: OK, um, you haven't brought up any blood? No cough?
+Doctor: OK, uh, have you had a wheeze, uh, with your difficulty breathing?
+Patient: Um, no, not that I've heard.
+Doctor: OK. Any changes um to the like breath sounds at all? Like any noisy breathing?
+Patient: No.
+Patient: Well, I guess if I, when I'm really having trouble breathing, yeah.
+Doctor: OK. Um, has anything like this ever happened to you before?
+Patient: No.
+Doctor: Now, OK.
+Doctor: Um.
+Doctor: And uh have you, have you had any uh night sweats?
+Patient: No.
+Doctor: All right. And then how about any rashes or skin changes?
+Patient: Uh, no rashes, but I guess like my, um, neck seems to be a little swollen.
+Doctor: OK.
+Doctor: Um, do you have any neck pain?
+Patient: No.
+Doctor: OK. Have you had any um like accidents, like a, like a car accident or anything where you really jerked your neck?
+Patient: No.
+Doctor: OK. Um.
+Doctor: Any, any trauma at all to the chest or back?
+Patient: No.
+Doctor: Uh, OK.
+Doctor: Um, so just in regards to your past medical history, um, do you have any uh prior medical conditions?
+Patient: No.
+Doctor: OK, um, any, uh, recent hospitalizations?
+Patient: No.
+Doctor: OK. Any, uh, prior surgeries?
+Patient: No.
+Doctor: OK. Do you take any medications regularly? Are they prescribed or over the counter?
+Patient: No.
+Doctor: All right. How about any allergies to medications?
+Patient: Nah, none.
+Doctor: All right, any immunizations or are they up to date?
+Patient: They're all up to date.
+Doctor: Excellent. Um, all right, and could you tell me, uh, a little bit about your, uh, living situation currently?
+Patient: Sure. I live in an apartment, um, by myself.
+Doctor: OK. Um, and, uh, how do you support yourself, uh, financially?
+Patient: Uh, I'm an accountant.
+Doctor: OK. Sounds like a, a pretty stressful job. um, or that it, it can be. Um, do you, uh, smoke cigarettes?
+Patient: I do.
+Doctor: OK, and how much do you smoke?
+Patient: Uh, smoke about a pack a day.
+Doctor: OK. Uh, how long have you been smoking for?
+Patient: For the 10 to 15 years.
+Doctor: OK. And do you smoke uh cannabis?
+Patient: Uh, sometimes.
+Doctor: And how much marijuana would you smoke, um, per, per week?
+Patient: Yeah, maybe about 5 mg, not that much.
+Doctor: OK, um, and, uh, do you use any other recreational drugs like cocaine, crystal meth, opioids?
+Patient: No.
+Doctor: OK. Um, have you used IV drugs before?
+Patient: No.
+Doctor: OK. Um, and do you drink alcohol?
+Patient: I do.
+Doctor: OK, uh, how much alcohol do you, uh, drink, um, each week?
+Patient: That have like 1 or 2 drinks a day, so about 10 drinks a week.
+Doctor: OK. Um, yeah, and um, right, and then briefly, could you tell me a little bit about your, uh, like diet and exercise?
+Patient: Sure, um, I try to eat healthy for dinner at least, but most of my lunches are, um, I eat, I eat out, um. And then in terms of exercise, I try to exercise every other day. I run for about half an hour.
+Doctor: OK. Oh, that's great that you've been uh working on the, the um activity in the diet as well. Um, so has anything like this happened in your family before?
+Patient: No.
+Doctor: OK. Has anybody in the family had a heart attack before?
+Patient: Um, actually, yes. My father had a heart attack when he was 45.
+Doctor: OK, and, and anybody in the family have, uh, cholesterol problems?
+Patient: I think my father did.
+Doctor: I see, OK. And how about anybody in the family have uh stroke?
+Patient: No strokes. No.
+Doctor: OK. And then, um, any cancers in the family?
+Patient: No.
+Doctor: You know, OK. Um, is, was there anything else that you wanted to, um, tell me about today that, that I, on, on history?
+Patient: Uh, no, I don't think so. I think you asked me everything.

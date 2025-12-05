@@ -1,0 +1,48 @@
+#### Presenting Complaint
+  * Pain and discomfort while urinating, ongoing for a few days.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Pain started a few days ago.
+    * Described as a stinging pain during urination.
+    * Occasional lower abdominal pain, described as cramping but different from menstrual cramps.
+    * Noticed a small amount of blood in urine earlier today.
+    * Urine has an unusual smell.
+
+  * **Past Medical History**  
+    * History of Irritable Bowel Syndrome (IBS).
+
+  * **Review Of Systems**  
+    * General: No fever, no nausea, no vomiting.
+    * Gastrointestinal: No diarrhoea, no loose stools.
+    * Genitourinary: Pain during urination, occasional lower abdominal pain, no increased frequency of urination, no other discharge.
+
+  * **Current Medications**  
+    * **Medication name**: Over-the-counter bicarbonate  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**: Tried a couple of days ago, not effective.  
+
+  * **Allergies**  
+    * Allergic to clindamycin, causes swelling.
+
+  * **Social History**  
+    * Lives in a flat with friends near college.
+    * Student studying biology.
+    * Social alcohol consumption on weekends.
+    * Non-smoker.
+    * Sexually active with a regular partner, uses condoms for contraception.
+
+  * **Physical Examination**: nil recorded  
+
+#### Assessment
+  * Likely diagnosis of a simple urinary tract infection (UTI).
+
+#### Plan
+  * Prescribe a 3-day course of antibiotics (nitrofurantoin or trimethoprim), 1 tablet twice a day.
+  * Advise to drink plenty of fluids to help flush out the infection.
+  * Suggest cranberry juice to help with symptoms.
+  * If symptoms persist or worsen by the end of the week, patient should call back or return for further evaluation.
+  * Monitor for high temperatures, back pain, or feeling generally unwell, which could indicate the infection spreading to the kidneys.
+  * Advise to avoid sexual activity until symptoms clear up, continue using barrier contraception.
+

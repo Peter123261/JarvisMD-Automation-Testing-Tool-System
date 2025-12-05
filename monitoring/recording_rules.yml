@@ -1,0 +1,25 @@
+groups:
+  - name: evaluation_recordings
+    interval: 1m
+    rules:
+      - record: job:evaluation_duration_seconds:p95
+        expr: histogram_quantile(0.95, rate(evaluation_duration_seconds_bucket[5m]))
+
+      - record: job:evaluation_success_rate
+        expr: >
+          rate(evaluations_success_total[5m])
+          /
+          clamp_min(rate(evaluations_success_total[5m]) + rate(evaluations_failed_total[5m]), 1)
+
+      - record: job:evaluation_failure_rate
+        expr: >
+          rate(evaluations_failed_total[5m])
+          /
+          clamp_min(rate(evaluations_success_total[5m]) + rate(evaluations_failed_total[5m]), 1)
+
+      - record: job:tokens_total_per_minute
+        expr: rate(tokens_total[5m]) * 60
+
+      - record: job:cases_flagged_total_per_minute
+        expr: rate(cases_flagged_total[5m]) * 60
+

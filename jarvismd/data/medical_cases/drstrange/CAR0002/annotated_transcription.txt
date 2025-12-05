@@ -1,0 +1,157 @@
+Doctor: What brings you in here today?
+Patient: Yeah, I have this uh pain in my chest.
+Doctor: OK, and uh where is the pain exactly?
+Patient: It's just radio over on the, on the left side.
+Doctor: OK. And uh when did this pain start?
+Patient: Uh, it started just 30 minutes ago.
+Doctor: OK, and they just come on randomly or were you doing something strenuous?
+Patient: Um, I was just shoveling the driveway and it came on.
+Doctor: OK.
+Doctor: Uh, has that pain been getting worse at all over the last half an hour?
+Patient: No, it just came on suddenly and it's
+Patient: Uh
+Patient: Sorry, yeah, the pain has been there this whole time and it's gotten worse, um, ever since it started.
+Doctor: OK. And how would you describe the pain? Is it kind of like an aching pain or is it a sharp or tight tightness kind of pain? How would you describe it?
+Patient: It feels dull. I feel like there's a, a lot of pressure.
+Patient: On my chest.
+Doctor: And and how do you rate the pain right now on a scale of 0 to 10, 0 being the least amount of pain you felt in your life, 10 being the worst?
+Patient: Uh, 7.
+Doctor: 7? OK. Have you had any uh similar episodes before?
+Patient: No, I've never had any chest pain before.
+Doctor: OK. And is the pain just staying in the region, the left chest area that you mentioned, or is it traveling to any other part of your body?
+Patient: No, I'm kind of just feeling it right here on the left side.
+Doctor: OK.
+Doctor: Uh, is there anything that you do, uh, that makes the pain either get worse or go away or like get better?
+Patient: Um
+Patient: I think it's a bit, bit worse if I'm moving around or when I was walking in here, I think it, it made it a bit worse, but uh nothing seemed to make it any better since the starting.
+Doctor: OK. And does it change at all from uh you changing positions, like if you're standing up versus sitting down or laying down?
+Patient: It's, I think it's a little bit worse when I, when I'm laying down.
+Doctor: OK. And other than the pain that you've been having, uh, have you been having any other symptoms like a cough or difficulty breathing or any pain when you're breathing in?
+Patient: Um
+Patient: I've felt a little bit, uh
+Patient: Short of breath or having difficulty, uh, breathing since yesterday when the or sorry, since the pain started, but um
+Patient: Just the difficulty breathing.
+Doctor: OK.
+Doctor: And have you recently injured, um, your chest or, uh, surrounding area at all, like from fall or anything like that?
+Patient: Uh, I do, um play uh rugby and was tackled by another player yesterday.
+Patient: But my um chest felt fine after that.
+Doctor: OK, so, but the pain just started half an hour ago. Yeah?
+Patient: OK.
+Doctor: Uh, have you, have you been traveling at all recently?
+Patient: No, but at home.
+Doctor: OK. Has anyone around you been sick at all?
+Patient: Uh, no.
+Doctor: So
+Doctor: OK. Have you been having any symptoms like nausea or vomiting or any fevers or
+Patient: chills
+Patient: Um, no nausea or vomiting, but um I do feel a little bit hot today
+Doctor: OK. Have you measured your temperature at all
+Doctor: Uh
+Patient: I, I did, and it
+Patient: was
+Patient: uh uh 38 degrees
+Doctor: OK
+Doctor: And uh have you been having, uh, any kind of swelling in your legs or feet
+Patient: Um
+Patient: No
+Patient: swelling in, in my uh legs.
+Patient: OK.
+Doctor: Uh, have you been feeling tired at all, like increasingly fatigued
+Patient: No, my energy has been good
+Patient: OK.
+Doctor: Uh, have you been having any kind of thumping or palpitations or feel like your heart has been racing at
+Patient: all
+Patient: It's, uh, um, it does feel like it's beating faster right now. Usually, it only feels like this when I'm uh playing sports
+Doctor: OK
+Doctor: And have you noticed any uh changes in uh your skin at all? Any rashes
+Patient: Uh, no rashes
+Patient: OK
+Doctor: Have you had any cough or runny nose or sore throat, any kind of those symptoms in uh in the past month
+Patient: Uh, a few weeks ago, uh, my nose was all around me, but, uh, that went away on its own. I haven't had any cough
+Doctor: OK
+Doctor: And have you been feeling uh dizzy at all or have you fainted
+Doctor: Um
+Patient: Uh, no dizziness and, um, no, I, I haven't fainted at
+Patient: all
+Doctor: OK
+Doctor: Uh, just a few more questions. Uh, have you had, uh, any diagnosis made by any physician, uh, any, anything like diabetes or high blood pressure
+Patient: Yeah, I've been told, uh, I have high cholesterol and um high blood pressure
+Doctor: OK. And do you take any medications for the, uh, these
+Patient: things
+Patient: Um
+Patient: I do take um medications for uh both blood pressure and cholesterol. Um
+Patient: Uh, rosuvastatin
+Patient: Uh
+Patient: Um
+Patient: Lisinopril and I
+Patient: take
+Patient: um a multivitamin
+Doctor: OK
+Doctor: And do you have any allergies to any medications at
+Patient: all
+Patient: Uh, no allergies
+Doctor: OK. Have you, uh, at all in the past been hospitalized for any reason
+Patient: No hospitalizations
+Doctor: Any previous surgeries
+Patient: No
+Doctor: OK. And within your family has uh anyone passed away from a heart attack or any cancers that run in the family
+Patient: Uh, no
+Patient: No,
+Doctor: OK
+Doctor: And currently right now, uh, do you live alone? Do you live with someone? And where do you live like an apartment, house?
+Patient: Um, I, uh, live in a house with
+Patient: Um
+Patient: My
+Doctor: OK. And do you currently
+Patient: work
+Patient: Yeah, I, I drive a bus for the city
+Doctor: OK. Um,
+Doctor: In your daily routine, um, would you say you get enough exercise throughout the week?
+Patient: Uh, yeah,
+Patient: usually
+Patient: on Sundays I'll go for a run
+Doctor: OK
+Doctor: And, uh, how about your diet? Well, how's your diet
+Patient: like
+Doctor: just
+Patient: regularly
+Patient: Um
+Patient: Usually,
+Patient: I feel like
+Patient: Uh
+Patient: Fairly balanced overall. I might, uh
+Patient: Um, eat out a little bit too often, but, uh, try to eat as many vegetables as I can
+Doctor: OK
+Doctor: And uh do you uh smoke cigarettes at
+Patient: all
+Patient: Uh,
+Patient: I do, yes. Um, I've been smoking for the last 20 years, roughly
+Doctor: OK. And how much do you smoke on a, on an average day?
+Patient: Um
+Patient: About a half a pack to a pack a
+Patient: day
+Doctor: OK
+Doctor: And uh do you
+Patient: drink
+Patient: Uh, no alcohol
+Doctor: OK. And any recreational drugs like marijuana?
+Patient: Um
+Patient: Uh, no marijuana, um, but I have used, uh, crystal meth in the
+Patient: past
+Doctor: OK
+Doctor: And when was the last time that you used crystal meth? Um
+Patient: Uh, 6 days ago
+Doctor: 6 days ago? OK. And how often do you use crystal meth?
+Patient: Um
+Patient: Uh,
+Patient: I would say if
+Patient: you
+Patient: A couple of times a month
+Doctor: A couple of times a month? OK
+Doctor: All right. And uh for how long have you been uh using crystal meth
+Patient: for the
+Patient: Uh, 7
+Patient: years
+Doctor: 7
+Patient: years? OK
+Doctor: All right. Thank you

@@ -1,0 +1,47 @@
+#### Presenting Complaint
+  * Terrible headache on the left side since midday, accompanied by nausea and a feeling of needing to vomit.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Headache started suddenly at midday.
+    * Pain is throbbing and located on the left side.
+    * Worsens with movement, especially when leaning forward or moving the head or neck.
+    * Patient noticed zigzag lines in vision and blurred vision a few minutes before the headache started.
+    * Patient is wearing sunglasses due to sensitivity to bright lights.
+    * Patient vomited twice earlier today.
+    * No fever or skin rashes reported.
+    * Patient had a similar headache a few weeks ago, which lasted a couple of days and was relieved by painkillers and rest.
+
+  * **Past Medical History**  
+    * No history of migraines.
+    * Mother has migraines and an underactive thyroid.
+
+  * **Review Of Systems**  
+    * General: No fever, no skin rashes.
+    * Neurological: No problems with speech, no numbness or weakness in arms and legs, no difficulty with balance or coordination.
+    * Gastrointestinal: Nausea and vomiting (twice).
+
+  * **Current Medications**  
+    * **Medication name**: Microgynon  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**: daily  
+
+  * **Allergies**: nil recorded  
+  * **Social History**  
+    * Works in the fashion industry, currently experiencing high levels of stress due to work pressure.
+    * Lives alone.
+    * Does not smoke.
+    * No regular exercise.
+
+  * **Physical Examination**: nil recorded  
+
+#### Assessment
+  * The patient is likely experiencing a migraine, given the unilateral throbbing headache, nausea, vomiting, sensitivity to light, and visual disturbances. There is no indication of more serious conditions such as meningitis or brain cancer.
+
+#### Plan
+  * Recommend keeping a headache diary to identify potential triggers.
+  * Prescribe strong painkillers such as paracetamol or cocodamol, and anti-inflammatories like ibuprofen or naproxen.
+  * Consider prophylactic medications if headaches become more persistent.
+  * Advise the patient to return if symptoms do not improve in 2-3 days or if they worsen, particularly if there is increased headache severity, worsening neck pain, weakness in arms or legs, or vision changes.
+

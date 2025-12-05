@@ -1,0 +1,47 @@
+#### Presenting Complaint
+  * Shortness of breath, wheezing, and coughing, particularly during physical exertion.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Symptoms started 2 to 3 days ago during a run.
+    * Shortness of breath occurs during brisk walking.
+    * Blue inhaler (salbutamol) used without significant relief.
+    * Wheezing and coughing present, but no phlegm production.
+
+  * **Past Medical History**  
+    * Asthma with last attack 3 to 4 years ago.
+    * No history of hospital admissions for asthma.
+    * No history of oral steroid use.
+
+  * **Review Of Systems**  
+    * Respiratory: Shortness of breath, wheezing, coughing.
+    * No phlegm production.
+
+  * **Current Medications**  
+    * **Medication name**: Salbutamol  
+       **Formulation**: Inhaler  
+       **Dosage**:   
+       **Usage frequency**: As needed  
+    * **Medication name**: Hydrocortisone  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+
+  * **Allergies**  
+    * Hay fever. No known medication allergies.
+
+  * **Social History**  
+    * Family history: Brother with asthma, sister with eczema.
+
+  * **Physical Examination**: Nil recorded.  
+
+#### Assessment
+  * Likely asthma exacerbation.
+
+#### Plan
+  * Increase brown inhaler (preventer) to 4 puffs twice a day.
+  * Continue using blue inhaler (salbutamol) as needed, up to every 2 to 4 hours.
+  * If symptoms worsen, visit A&E immediately.
+  * Book an appointment with a GP for a face-to-face review and chest examination.
+  * Potential need for antibiotics or steroids based on GP assessment.
+

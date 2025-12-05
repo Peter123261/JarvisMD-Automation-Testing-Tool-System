@@ -1,0 +1,46 @@
+#### Presenting Complaint
+  * Diarrhoea and abdominal pain
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Symptoms started approximately 3 days ago.
+    * Patient experiences watery diarrhoea almost every hour while awake.
+    * No blood observed in stools.
+    * Abdominal pain is present, located in the middle of the abdomen, and comes and goes.
+    * Pain is rated around 6-7 out of 10.
+    * Patient feels nauseous and has vomited, particularly after consuming milk.
+    * Patient feels hot and believes they might have a fever but has not measured their temperature.
+    * No significant issues with urination.
+
+  * **Past Medical History**  
+    * Nil significant past medical history reported.
+
+  * **Review Of Systems**  
+    * Gastrointestinal: Watery diarrhoea, abdominal pain, nausea, vomiting.
+    * General: Feeling hot, possible fever.
+
+  * **Current Medications**  
+    * **Medication name**: Paracetamol  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+
+  * **Allergies**  
+    * Nil known allergies.
+
+  * **Social History**  
+    * Lives with sister and mother.
+    * Brother has had similar symptoms for 5 days.
+
+  * **Physical Examination**: Nil recorded.  
+
+#### Assessment
+  * Acute gastroenteritis, likely viral given the family history and rapid onset of symptoms.
+
+#### Plan
+  * Encourage fluid intake to prevent dehydration.
+  * Advise on avoiding dairy products if they exacerbate symptoms.
+  * Monitor symptoms and seek medical attention if they worsen or do not improve in a few days.
+  * Consider over-the-counter anti-diarrhoeal medication if appropriate.
+  * Follow up if symptoms persist or new symptoms develop.
+

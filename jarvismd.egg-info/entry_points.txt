@@ -1,0 +1,2 @@
+[console_scripts]
+jarvismd-api = jarvismd.backend.services.api_gateway.main:main

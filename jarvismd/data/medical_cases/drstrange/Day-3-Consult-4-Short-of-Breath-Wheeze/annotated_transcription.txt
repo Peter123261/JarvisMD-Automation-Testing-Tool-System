@@ -1,0 +1,119 @@
+Doctor: Hi. Hi, hello, I'm Doctor Jacobs. Welcome to Babylon. Hello. Hi. Hi. So just before we start, is it all right if you could confirm your name for me,
+Doctor: please
+Patient: Yeah, so my name <REDACTED PII>
+Doctor: and your date of
+Doctor: birth? <REDACTED PII>
+Doctor: And your address for me,
+Doctor: please?
+Patient: <REDACTED PII>
+Patient: <REDACTED PII>
+Doctor: That's correct. And just to confirm that you're in a secure location and we can have a confidential conversation
+Patient: Thank you. OK.
+Doctor: So you mentioned in, in our notes that
+Patient: you've got
+Doctor: some
+Doctor: tightness, if you would like to tell me a bit more
+Doctor: about it, please.
+Patient: Yeah, so about 2 to 3 days ago, I was running with a friend, and usually I could talk to her whilst I ran, but I found myself actually short of breath. Um, I'm not really short of breath when I'm walking. Um, but definitely
+Patient: Um, if I'm walking briskly now, um, and I've used my blue inhaler, but to no avail, it hasn't really helped me
+Patient: Um,
+Patient: but yeah
+Patient: So I'm having, I'm just wheezing a bit and coughing, just generally a bit short of
+Patient: breath,
+Patient: wheezing and coughing. OK. And
+Doctor: you've mentioned you're using the blue inhaler, so how often are you using the blue inhaler
+Patient: Um, I think I'm just using that as and when I have symptoms.
+Doctor: Yeah, so, um, at the moment, you are having shortness of breath. So are you using it every day at the moment
+Patient: Um, yeah, and morning and evening to kind of prevent it as
+Patient: well.
+Doctor: OK. And um what, which color? What's the name of your preventer
+Patient: Um, it's blue, um, I think in totality, um my history of salbutamolano ban, and hydrocortisone that I'm taking as
+Patient: well.
+Doctor: OK, so could you repeat that? Your salbutamolol
+Patient: Uh, Ben and
+Patient: hydrocortisone
+Patient: and
+Doctor: hydrocortisone. So you have eczema also,
+Patient: yeah
+Patient: What's that, sorry?
+Doctor: You do have a history of eczema
+Patient: Um, I, brother's asthmatic and my sister has eczema, um, and I've got a few issues, um, that I think could be extra as
+Patient: well. OK. Right.
+Doctor: So coming back to your, um, you know, your shortness of breath. You've mentioned you're wheezy and you're coughing. Are you bringing up any phlegm at
+Doctor: all
+Patient: Um, no, I don't, um, I'm not coughing up much be um,
+Doctor: OK, no speech. OK
+Doctor: Right to you. And um how are you using your um your leel. So are you using it every day
+Patient: Um, I think I'm using that every day and this sound beautiful just like as and when.
+Doctor: So how are you using the clean? Is it twice a
+Patient: day
+Doctor: Um, yeah, OK. And have you ever been admitted in hospital because your asthma was so
+Doctor: bad
+Patient: Um, no, I
+Doctor: haven't. OK
+Doctor: Right here. When was the last time you had an asthma
+Doctor: attack
+Patient: Um, about 3 to 4 years
+Doctor: ago, 3 to 4 years ago, and what, what did the DP do at that
+Doctor: time
+Patient: Um, just, um, encourage me to carry on using my inhalers as a preventative.
+Doctor: OK, so you didn't have any ster steroids or antibiotics.
+Patient: Not that I can
+Patient: remember. OK. Um
+Doctor: OK
+Doctor: Right. Have you ever had oral steroids in the
+Doctor: past
+Patient: Um, no.
+Doctor: When was the last time you had an asthma review with our nurse
+Patient: Um, about 2 years ago.
+Doctor: OK, 2 years ago
+Doctor: OK, but your asthma was pretty under control till till now, isn't it
+Patient: Uh, yes, just in the last two times.
+Doctor: So do you do a peak flow meter at home, peak flow reading where you blow into, you
+Doctor: know
+Doctor: Do you do that
+Doctor: now
+Patient: Um, just every now and then, I haven't done over the last, since I've had symptoms.
+Doctor: OK, so what was what's your peak flow reading when
+Patient: Good
+Doctor: Like normal peak flow reading
+Patient: Um, I think opathy
+Doctor: OK, let's say it's about um 380
+Patient: Yeah, 3, OK
+Doctor: Right. So that's your normal, yeah
+Doctor: Right here. OK, so what we need
+Doctor: OK. Do you have any allergies at all
+Patient: Um, I have hay fever.
+Doctor: Sorry, could you repeat that,
+Patient: please
+Patient: Sorry, I have hay fever.
+Doctor: OK, no, no any med allergies to medication
+Patient: Oh nice.
+Doctor: OK, so you're not allergic to
+Patient: anything, OK
+Doctor: So no allergies. OK.
+Patient: Excellent.
+Doctor: All right here. So what we need to do that, obviously we, you haven't had asthma checked for some time and it looks like you can be having a small, small exacerbation. So what I would
+Doctor: You to be seen by one of our GPs in the next few days. In the interim, what I'd like you to do is you can use your blue inhaler as and
+Patient: when
+Doctor: OK, and you use it maximum
+Doctor: Every 2 to 4 hours, but if you're using it that often, that
+Patient: means
+Doctor: pretty much that, you know, your asthma is really bad. You can use it, but that's not ideal. But uh, the brown in your lenal, the brown inhaler, you can up the dose if you're using
+Patient: just 2
+Doctor: puffs twice a day, you can increase it to 4 puffs twice a
+Patient: day.
+Doctor: Yeah. And while this is to do while you're waiting to see
+Patient: us
+Doctor: Now, mentioned, you know, you're doing what, you know, increase the channel to 4 puffs twice a day, and you're using the asthma, you know, the blue inhalers every 2 to 4 hours and your breathing is getting really worse, then you would need to take yourself to A&E. You shouldn't wait for our appointment,
+Patient: OK?
+Doctor: So when the doctor sees you, what we're going to do is we're gonna examine your chest, yeah, make you do the peak for reading. So depending on what we find, you might need
+Doctor: antibiotics or some steroids. But anyway, while you're at home, we are going to by increasing your plan, we are increasing your steroid intake
+Patient: anyway
+Patient: OK,
+Doctor: so, yeah, so any questions you wanted to ask
+Patient: me? Am I
+Doctor: Yeah, so booking a call support, book an appointment to see, and I will recommend that a face to face in the interim, increase your brown inhaler to 4 puffs twice a day and you'll salbutamol inhalers up to every 2 hourly, but if your breathing is getting worse and we've not seen enough you take off to any
+Patient: All
+Patient: right. OK. Thank you so much for your time.
+Doctor: You're welcome. Take care then. Bye bye now. Bye, bye

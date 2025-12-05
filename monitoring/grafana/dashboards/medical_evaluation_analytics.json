@@ -1,0 +1,188 @@
+{
+  "id": null,
+  "uid": "medical-evaluation-analytics",
+  "title": "Medical Evaluation Analytics",
+  "schemaVersion": 39,
+  "version": 1,
+  "refresh": "30s",
+  "time": {
+    "from": "now-24h",
+    "to": "now"
+  },
+  "panels": [
+    {
+      "type": "stat",
+      "title": "Current Success Rate",
+      "gridPos": {"x": 0, "y": 0, "w": 8, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "prometheus"},
+      "targets": [
+        {
+          "expr": "clamp_min(clamp_max(sum(increase(evaluations_success_total[24h])) / clamp_min(sum(increase(evaluations_success_total[24h])) + sum(increase(evaluations_failed_total[24h])), 1), 1), 0)",
+          "instant": true
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percentunit",
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {"color": "red", "value": 0},
+              {"color": "yellow", "value": 0.75},
+              {"color": "green", "value": 0.9}
+            ]
+          }
+        },
+        "overrides": []
+      }
+    },
+    {
+      "type": "stat",
+      "title": "P95 Duration (s)",
+      "gridPos": {"x": 8, "y": 0, "w": 8, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "prometheus"},
+      "targets": [
+        {
+          "expr": "clamp_min(histogram_quantile(0.95, sum(rate(evaluation_duration_seconds_bucket[1h])) by (le)), 0)",
+          "instant": true
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "s",
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {"color": "green", "value": 0},
+              {"color": "yellow", "value": 45},
+              {"color": "red", "value": 60}
+            ]
+          }
+        },
+        "overrides": []
+      }
+    },
+    {
+      "type": "stat",
+      "title": "Tokens Today",
+      "gridPos": {"x": 16, "y": 0, "w": 8, "h": 4},
+      "datasource": {"type": "prometheus", "uid": "prometheus"},
+      "targets": [
+        {"expr": "increase(tokens_input_total[1d])", "instant": true, "legendFormat": "Input"},
+        {"expr": "increase(tokens_output_total[1d])", "instant": true, "legendFormat": "Output"},
+        {"expr": "increase(tokens_total[1d])", "instant": true, "legendFormat": "Total"}
+      ],
+      "options": {
+        "textMode": "value_and_name",
+        "orientation": "horizontal"
+      }
+    },
+    {
+      "type": "timeseries",
+      "title": "Success Rate (Last 24h)",
+      "gridPos": {"x": 0, "y": 4, "w": 12, "h": 8},
+      "datasource": {"type": "prometheus", "uid": "prometheus"},
+      "targets": [
+        {
+          "expr": "clamp_min(clamp_max(sum(rate(evaluations_success_total[30m])) / clamp_min(sum(rate(evaluations_success_total[30m])) + sum(rate(evaluations_failed_total[30m])), 1), 1), 0)",
+          "legendFormat": "Success rate (30m)"
+        },
+        {
+          "expr": "clamp_min(clamp_max(sum(increase(evaluations_success_total[24h])) / clamp_min(sum(increase(evaluations_success_total[24h])) + sum(increase(evaluations_failed_total[24h])), 1), 1), 0)",
+          "legendFormat": "Success rate (24h)",
+          "instant": true
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {"unit": "percentunit"},
+        "overrides": []
+      }
+    },
+    {
+      "type": "timeseries",
+      "title": "Evaluation Duration p50 / p95",
+      "gridPos": {"x": 12, "y": 4, "w": 12, "h": 8},
+      "datasource": {"type": "prometheus", "uid": "prometheus"},
+      "targets": [
+        {
+          "expr": "histogram_quantile(0.5, rate(evaluation_duration_seconds_bucket[5m]))",
+          "legendFormat": "p50"
+        },
+        {
+          "expr": "clamp_min(histogram_quantile(0.95, sum(rate(evaluation_duration_seconds_bucket[1h])) by (le)), 0)",
+          "legendFormat": "p95 (1h)"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {"unit": "s"},
+        "overrides": []
+      }
+    },
+    {
+      "type": "timeseries",
+      "title": "Evaluation Cost (1h increase & rate)",
+      "gridPos": {"x": 0, "y": 12, "w": 12, "h": 8},
+      "datasource": {"type": "prometheus", "uid": "prometheus"},
+      "targets": [
+        {
+          "expr": "increase(evaluation_cost_total[1h])",
+          "legendFormat": "Cost (increase)"
+        },
+        {
+          "expr": "rate(evaluation_cost_total[5m])",
+          "legendFormat": "Cost rate"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {"unit": "currencyUSD"},
+        "overrides": []
+      }
+    },
+    {
+      "type": "timeseries",
+      "title": "Token Usage Rate",
+      "gridPos": {"x": 12, "y": 12, "w": 12, "h": 8},
+      "datasource": {"type": "prometheus", "uid": "prometheus"},
+      "targets": [
+        {"expr": "rate(tokens_input_total[5m])", "legendFormat": "Input"},
+        {"expr": "rate(tokens_output_total[5m])", "legendFormat": "Output"},
+        {"expr": "rate(tokens_total[5m])", "legendFormat": "Total"}
+      ],
+      "fieldConfig": {
+        "defaults": {"unit": "tokens"},
+        "overrides": []
+      }
+    },
+    {
+      "type": "timeseries",
+      "title": "Flagged Cases Rate",
+      "gridPos": {"x": 0, "y": 20, "w": 12, "h": 8},
+      "datasource": {"type": "prometheus", "uid": "prometheus"},
+      "targets": [
+        {"expr": "clamp_min(sum(rate(cases_flagged_total[30m])) * 60, 0)", "legendFormat": "Flagged/min (30m)"},
+        {"expr": "clamp_min(sum(increase(cases_flagged_total[24h])) / 1440, 0)", "legendFormat": "Flagged per minute (24h avg)"}
+      ],
+      "fieldConfig": {
+        "defaults": {"unit": "none"},
+        "overrides": []
+      }
+    },
+    {
+      "type": "table",
+      "title": "Recent Evaluation Counters",
+      "gridPos": {"x": 12, "y": 20, "w": 12, "h": 8},
+      "datasource": {"type": "prometheus", "uid": "prometheus"},
+      "targets": [
+        {"expr": "evaluations_success_total", "legendFormat": "success"},
+        {"expr": "evaluations_failed_total", "legendFormat": "failed"}
+      ],
+      "options": {"showHeader": true},
+      "fieldConfig": {
+        "defaults": {},
+        "overrides": []
+      }
+    }
+  ],
+  "templating": {"list": []}
+}
+

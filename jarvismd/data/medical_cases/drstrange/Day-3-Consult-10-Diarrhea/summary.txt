@@ -1,0 +1,43 @@
+#### Presenting Complaint
+  * Diarrhoea for 3 days
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Diarrhoea for 3 days
+    * No recent travel or dietary changes
+    * Experienced abdominal pain and vomited once
+    * Frequency: 4 to 5 times a day
+    * Stool consistency varies between watery and loose
+    * No blood or mucus in stool
+    * Possible mild fever
+    * Reduced appetite but able to drink fluids
+
+  * **Past Medical History**  
+    * Asthma
+
+  * **Review Of Systems**  
+    * Gastrointestinal: Diarrhoea, abdominal pain, vomiting once, no blood or mucus in stool
+    * General: Possible mild fever, reduced appetite
+
+  * **Current Medications**  
+    * **Medication name**: Unknown inhaler (yellow)  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+
+  * **Allergies**: Nil recorded  
+  * **Social History**: Nil recorded  
+  * **Physical Examination**: Nil recorded  
+
+#### Assessment
+  * Acute diarrhoea, likely viral gastroenteritis
+
+#### Plan
+  * Advise on maintaining hydration: drink plenty of fluids
+  * Recommend a soft diet: crackers, toast, jam, boiled vegetables, and mash
+  * Avoid dairy, fish, meat, and eggs until symptoms improve
+  * Consider probiotics like yoghurt to help restore gut flora
+  * Monitor for worsening symptoms: increased frequency of diarrhoea, presence of blood in stool, or signs of dehydration
+  * If symptoms persist for more than a week or worsen, consider stool sample for further investigation
+  * Over-the-counter dioralyte to replenish lost salts
+

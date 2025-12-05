@@ -1,0 +1,47 @@
+#### Presenting Complaint
+  * Cough and fever in a child
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Symptoms started on Wednesday after school with a dry cough.
+    * Cough worsened on Thursday, and the child appeared very tired.
+    * By Friday, the cough had worsened, and the child developed a fever over 100°F (possibly 100.1°F).
+    * No sputum or blood production with the cough.
+    * No wheezing or shortness of breath noted, though the child has been less active.
+    * Cough persists throughout the day and is described as dry and not very loud.
+    * No previous similar episodes with fever.
+
+  * **Past Medical History**  
+    * Generally healthy child.
+    * No past illnesses or hospitalizations except for a broken arm.
+    * Normal pregnancy and no complications as a newborn.
+    * Met all developmental milestones.
+
+  * **Review Of Systems**  
+    * General: Fatigue, no chills or night sweats.
+    * ENT: Possible loss of taste, no sore throat, no issues swallowing.
+    * Respiratory: Dry cough, no wheezing, no shortness of breath.
+    * Cardiovascular: No chest pain or palpitations.
+    * Gastrointestinal: No changes in bowel movements, no nausea or vomiting.
+    * Genitourinary: No changes in urine.
+    * Neurological: No dizziness, fainting, confusion, or memory loss.
+    * Dermatological: No changes in hair, nails, or skin.
+
+  * **Current Medications**: nil  
+  * **Allergies**: nil  
+  * **Social History**  
+    * Lives with parents and a younger sister in town.
+    * No concerns about environmental issues at home (e.g., old carpets, mold, asbestos).
+    * Attends school, no known sick contacts outside of school, and no recent travel.
+
+  * **Physical Examination**: nil recorded  
+
+#### Assessment
+  * Likely viral infection, possibly COVID-19, given the symptoms of cough, fever, fatigue, and potential loss of taste.
+
+#### Plan
+  * Consider COVID-19 testing to confirm diagnosis.
+  * Symptomatic treatment for fever and cough (e.g., paracetamol for fever, hydration, rest).
+  * Monitor symptoms and seek medical attention if they worsen or new symptoms develop.
+  * Advise on isolation to prevent potential spread of infection.
+

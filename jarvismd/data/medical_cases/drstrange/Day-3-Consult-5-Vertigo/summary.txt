@@ -1,0 +1,38 @@
+#### Presenting Complaint
+  * Dizziness and nausea with a sensation of the room spinning and buzzing in the ears.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Dizziness and nausea started approximately 2 hours ago while making breakfast.
+    * Patient reports a sensation of the room spinning and difficulty walking straight.
+    * Buzzing in the ears but no ear pain or discharge.
+    * No recent viral illness, cold, or cough.
+    * Similar episode occurred about a month ago but resolved quickly within 5-10 minutes.
+
+  * **Past Medical History**  
+    * Premature ovarian failure, treated with HRT.
+
+  * **Review Of Systems**  
+    * General: No recent viral illness, cold, or cough.
+    * ENT: Buzzing in the ears, no ear pain or discharge, no hearing problems except for the buzzing noise.
+    * Neurological: No weakness in arms or legs, no temperature.
+
+  * **Current Medications**  
+    * **Medication name**: HRT  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+
+  * **Allergies**: Nil recorded  
+  * **Social History**: Nil recorded  
+  * **Physical Examination**: Nil recorded  
+
+#### Assessment
+  * Likely diagnosis of labyrinthitis, characterised by dizziness, nausea, and buzzing in the ears, possibly due to inflammation and imbalance in the middle ear.
+
+#### Plan
+  * Prescribe Schemeto, one tablet three times a day for 10 days.
+  * Patient to be seen by a doctor for further examination, including blood pressure check and assessment of walking.
+  * Advise patient to go to A&E if they develop weakness in legs or arms, sudden headache, or start being violently sick.
+  * Send prescription to Lloyds pharmacy.
+

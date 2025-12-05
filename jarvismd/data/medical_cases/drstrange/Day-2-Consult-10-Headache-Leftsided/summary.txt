@@ -1,0 +1,51 @@
+#### Presenting Complaint
+  * Severe headache on the left side of the head, which woke the patient up early in the morning.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Patient woke up at around 5:30 AM with a severe headache on the left side of the head.
+    * Patient has a history of headaches but describes this one as more severe and different in nature, being more prominent on the left side.
+    * No neck stiffness or fever reported.
+    * Mild sensitivity to bright lights, causing slight eye soreness.
+    * Initial dizziness upon waking, which has since subsided.
+    * Headache is somewhat alleviated when lying down.
+    * Paracetamol taken but found ineffective.
+
+  * **Past Medical History**  
+    * History of anxiety for about 2 years, currently on sertraline.
+
+  * **Review Of Systems**  
+    * General: No fever, no neck stiffness.
+    * Neurological: Headache, mild light sensitivity, initial dizziness (subsided).
+    * Psychiatric: History of anxiety, no current significant anxiety, no thoughts of self-harm.
+
+  * **Current Medications**  
+    * **Medication name**: Sertraline  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+    * **Medication name**: Paracetamol  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**: Taken this morning  
+
+  * **Allergies**: Nil recorded.  
+  * **Social History**  
+    * Lives with partner.
+    * Non-smoker.
+    * Has a cat.
+    * Exercises by running at least 3 times a week.
+    * Diet is described as 'OK' but not particularly healthy.
+    * Experiencing work-related stress due to a backlog of work and late nights for the past couple of months.
+
+  * **Physical Examination**: Nil recorded.  
+
+#### Assessment
+  * Possible tension headache, likely due to stress and history of anxiety.
+  * Possible migraine, suggested by one-sided pain and light sensitivity.
+
+#### Plan
+  * **Treatment options considered**: ['Generic pain relief for migraine, specifically ibuprofen or aspirin, as they are more effective than paracetamol.', 'Continued use of paracetamol if preferred by the patient.']  
+     **Final treatment plan**: ['Start ibuprofen for headache relief.', 'Consider taking a week off work to reduce stress.', 'Explore counselling options; provide link for self-referral.']  
+     **Additional recommendations**: ['Ensure a minimum of 7 hours of sleep per night.', 'Drink 1.5 to 2 litres of water or fluids daily, excluding coffee or tea.', 'Follow-up appointment in a week to reassess the condition.', 'Consider blood tests or other investigations if symptoms do not improve.']  
+

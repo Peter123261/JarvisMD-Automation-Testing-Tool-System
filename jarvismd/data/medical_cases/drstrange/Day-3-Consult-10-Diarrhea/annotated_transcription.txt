@@ -1,0 +1,104 @@
+Patient: Hello.
+Doctor: Hello. Hi, I'm Doctor Jacob and welcome to Babylon. Hello.
+Patient: Nice to meet you.
+Doctor: Nice to meet you too. So just before we start, is it alright if you could confirm your name for me, please?
+Patient: <REDACTED PII>.
+Doctor: And your date of birth?
+Patient: <REDACTED PII>.
+Doctor: OK. And your address for me please?
+Patient: <REDACTED PII>, London.
+Doctor: OK, and that's correct. And just to confirm that you're in a secure location and we can have a confidential conversation?
+Patient: Yes.
+Doctor: OK. Uh, you've mentioned on our notes that you're suffering from bad diarrhea. Sorry to hear about it. So if you tell me a bit more about it, please?
+Patient: Uh, it's been happening for 3 days now. OK. Um, yeah, started off, uh, was, I don't know. It's something that I thought would go away pretty quickly. I've had that from time to time after eating certain types of food or going on certain travels. But, uh nothing funky in my diet. I no travels recently. Um, and it just kind of kept up. And that confused as what to do.
+Doctor: So you haven't had anything from outside, nothing dodgy, anything but no?
+Patient: No, no, no, no. Just a little. Yeah, I, I don't know. I mean, it's, it's pretty standard diarrhea, where it's like a little bit of abdominal pain. I threw up once and that was a little worrying.
+Doctor: Repeat that please? That wasn't clear what did she say?
+Patient: I threw up once.
+Doctor: After that, we said something?
+Patient: Uh, nothing else was worrisome.
+Doctor: OK, right. And with the diarrhea, how many times a day are you going to the toilet?
+Patient: 4 to 5 times, yeah. Um, is there any, and it's like water? Is it like water or is it just loose?
+Patient: Uh, what do you mean?
+Doctor: Are you going like water, or is it, you know, bit, bit of solid juice with loose kind of thing?
+Patient: It probably depends on the time of day, to be honest. Bit of both. And is there any blood or mucus?
+Patient: No blood. What do you mean mucus?
+Doctor: It's like snotty stuff in the stool.
+Patient: No, so no mucus.
+Doctor: OK. Any fever at all?
+Patient: Uh.
+Patient: Maybe a little bit.
+Patient: But it hasn't been that in particular hasn't been too worrying.
+Doctor: Are you still able to eat?
+Doctor: And?
+Patient: Uh, a little bit.
+Patient: Appetite loss, I guess, versus the normal.
+Doctor: OK. Uh, but also not something I'd like, I, if that was a loan, I wouldn't have reached out, so, but you're, you're still able to drink quite a bit, yeah, you're drinking plenty?
+Patient: Yeah, yeah, yeah.
+Patient: OK.
+Patient: Mostly to try and rid.
+Doctor: OK. And um what have you, have you taken anything so far for the diarrhea?
+Patient: Nothing yet.
+Doctor: Nothing yet. OK. Anything for the abdominal pain?
+Patient: Uh, nothing yet.
+Patient: OK.
+Doctor: Right. And any unfortunately, we don't have any of your past medical histories. Is that anything you'd like to say?
+Patient: Uh, probably had asthma.
+Patient: Um, or, or, I don't know, I guess I still have it.
+Doctor: OK. And uh are you, any, anything else other than asthma?
+Patient: Uh, my dad had hypertension.
+Patient: OK.
+Patient: He has hypertension and hypertension. Yeah, he died of bowel cancer 10 years ago.
+Doctor: Oh yeah, OK.
+Doctor: 10 years ago.
+Doctor: And how old was he when he died?
+Patient: Uh, 62.
+Patient: OK.
+Doctor: And um you mentioned you had asthma. Are you using any inhalers at all?
+Patient: Yes.
+Doctor: Which?
+Patient: Lexapro.
+Patient: Sorry, Lexapro.
+Patient: Laxitro.
+Patient: Yes.
+Doctor: OK, not heard of it. I mean, is it like salbutamol? Is it like a blue color?
+Patient: Yellow.
+Patient: Yellow, OK
+Patient: I'll have to check that one, not sure, like seed
+Doctor: OK, um, that's fine. Any other medication that you're using?
+Doctor: Over the counter, anything at all?
+Patient: Rely now
+Patient: OK. Right
+Doctor: Any allergies?
+Patient: Nothing, yeah, nothing.
+Doctor: No allergies at all?
+Patient: Right here
+Patient: Fine. So
+Doctor: Obviously, you know, you just have diarrhea, it's about 4 to 5 times a day, um, you're still drinking plenty and you look like you're not dehydrated, which is a good sign, OK? Um, then we start worrying about diarrhea is if you're going more than 8 times a day. That means probably you are, you know, whatever you're eating is going straight through, OK? You still need to drink plenty of water because you're losing a lot of fluids.
+Doctor: OK, when you go to the toilet, things that one would advise is a soft diet, so avoid dairy, fish, meat, eggs, while you're having the diarrhea. Sorry.
+Patient: What is a soft diet? What does that like outside of not those things. What do you mean by soft?
+Doctor: OK, so that will be like crackers, toast, jam, those kind of things that easily digested like what we would give babies, yeah, when they start eating you give simple food for babies. You don't give eggs or meat the first time they start feeding. So that's the kind of soft diet we're talking about, yeah.
+Doctor: Once you are able to, you know, keep most of it in, you can start off with some just boiled vegetables and mash.
+Doctor: Once you're OK with that for about 48 hours, then you can start having meat. So just don't have meat once you feel like you're slightly better, because you might go back to square one again.
+Patient: OK with that diet. Like once, 48 hours you're not having any diarrhea, you're fine, then you can go and start having meat, egg.
+Doctor: And so that's you.
+Patient: Is getting better, but isn't.
+Patient: Or do you want it to go away completely at that point? Or if it's like trending up,
+Doctor: No, no, preferably just down because why do we say this? It's because it takes much more time for meat to get digested. So because your gut flora, you know, the, the, the bacteria in your gut is not, you know, as it should be. It takes a bit more effort for one to digest these food while it doesn't take that much of an effort to, you know, digest mash and vegetables. Does that make sense?
+Patient: Yes.
+Doctor: Yeah, so, um, at the same time you could have some, although you can't eat milk is not a good idea. Yogurts are a good idea because they are probiotics, it helps to build up the normal um gut bacteria back.
+Doctor: OK, so those kind of, now things to look out for, if your diarrhea doesn't go away in a week's time, or if you're passing blood, we need a stool sample because that means you, you may have some um some particular bugs that might need treatment with antibiotics.
+Patient: OK.
+Patient: OK,
+Doctor: If you again, as I've mentioned previously, if you're going about 6 to 8 times a day, that means there's a high chance that you are having the dehydration and you might need to go into hospital at that point in time. If that happens, you get in touch with us again.
+Patient: All right
+Patient: OK.
+Doctor: Any questions? You look a bit confused.
+Patient: No, that's it.
+Doctor: Yeah.
+Doctor: OK, and also you could get something called diolite over the counter, so it helps to uh replenish your, the salts that you've been, that's lost through going to the toilet.
+Patient: OK
+Patient: OK
+Doctor: If you're a bit confused, you know, you can actually, uh, all this is all recorded in your app, so you can go back, I'll put that all in detail, so if, you know, I know sometimes it's a bit difficult to process everything. You can go back and read, read the notes.
+Patient: Is that OK? That's great. All right then.
+Doctor: You take care.

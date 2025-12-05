@@ -1,0 +1,127 @@
+Doctor: What brings you in?
+Patient: Um, I just, uh, I have, I have a cough but it has for a couple of days and like normally if I had a cough or a cold, I would just like stay home and rest, but just because, you know, it's COVID, I, I wanted to make sure, like I wanted to get checked out.
+Doctor: Yeah, of course, that, that was a great idea. Thanks for coming in. Um.
+Doctor: How long have you had this cough for?
+Patient: Uh, it's like 2 days, but then maybe 3 days ago I started to feel like my throat was dry and I was like, oh maybe I need to drink more water or something and then the next day I started like actually coughing.
+Doctor: OK. Is it a dry cough or a wet cough?
+Patient: Yeah, it's really dry.
+Doctor: Really dry. OK, so no sputum, no blood?
+Doctor: That you're bringing up. No, nothing like.
+Patient: that. It's just kind of annoying.
+Doctor: Mhm, yeah.
+Doctor: do you have any wheeziness associated with your coughing?
+Patient: I don't think so.
+Doctor: No, OK. No shortness of.
+Patient: breath.
+Patient: Mm, no. No, I've been, I feel like I've been, um, hired, but I don't think it's been actually hard to breathe. I just feel overall like really tired.
+Doctor: OK, OK. And have you tried anything for the cough, like, um, over the counter cough syrup or anything like that?
+Patient: Uh, like they have, I've just been drinking tea and just like tea with honey just to like make it feel better. I, I didn't like take any medicine.
+Doctor: OK.
+Doctor: Do you, have you noticed that there are any triggers for your cough, like the cold or dust or any like environmental triggers?
+Patient: Mm, I mean, I've been just because of COVID and stuff, I've been staying home ever since I had it, uh, so, so I don't, I can't think of anything, but I don't think so.
+Doctor: OK. And do you find that it's constantly there or, um, is it worse during a particular time of day, like morning, afternoon or.
+Patient: It's kind of just been there all the time right now.
+Doctor: OK.
+Doctor: uh, is it getting worse, do you.
+Patient: I think so. I think like today is worse than yesterday and the day before that, it just felt like dry and then, and then like the next day I started coughing, so yeah.
+Doctor: OK. And have you ever experienced anything like this in the past?
+Patient: I mean, I've had coughs before. Um, this one feels like particularly dry, but uh like it, it's not too different than like when I've just like caught like had a cough in another year.
+Doctor: OK.
+Doctor: And you mentioned that your throat was also dry. Do you have a sore throat?
+Patient: Uh, maybe a little bit this morning. Yeah, like at first, it just felt dry like I was thinking like, oh, I like, you know, I need to take a sip of water or something, and now it just.
+Patient: Now, starting to think, I feel a little bit sore, I think.
+Doctor: OK.
+Doctor: Is it hard for you to swallow foods or.
+Patient: Oh sorry, could you repeat that? I just missed the last part.
+Doctor: no worries. Is it hard for you to swallow food or fluids?
+Patient: Uh, no, it's not hard. It's not hard to swallow things.
+Doctor: OK.
+Doctor: And then, have you had a runny nose or a stuffy nose?
+Patient: No, not particularly.
+Doctor: No, OK. How about, um, any changes to your hearing or vision?
+Patient: Mm, no.
+Doctor: No. How about changes in smell or.
+Patient: taste.
+Patient: Uh, no, that's like a COVID thing, right? Like I was hoping because I can still, I could still like take my coffee this morning. I was hoping that that means I don't have COVID, but Yeah I really know.
+Doctor: I mean, yeah, some people have it, some people don't, um, I
+Doctor: guess
+Doctor: People with COVID present in different ways, um, yeah
+Doctor: Yeah
+Doctor: Do you have a fever at all
+Patient: Um, like when I came in here, when the nurse took my temperature, she said I had um like she said I had a fever. Uh, I don't have a thermometer at home. Um, but like I've been feeling really hot, so would probably, I've probably been having it for a couple of
+Patient: days
+Doctor: OK. OK, we can take, yeah, we can take your temperature
+Doctor: I'm sorry, did you say you already took your temperature today and
+Patient: the nurse took it, I mean, yeah, I don't know what it was, but the nurse took it came coming in and she said it was a little high. I don't know if it was like a fever, but I've, I've been feeling hot though
+Doctor: OK, OK, yeah. So, uh, yeah, we'll double check to make sure that
+Doctor: you either do or don't have a fever. Um, have you experienced any chills or night sweats over the past few
+Doctor: days
+Patient: Uh, no
+Doctor: No, OK
+Patient: in general
+Doctor: OK.
+Doctor: How about,
+Doctor: um,
+Doctor: any weight loss
+Doctor: Mm,
+Patient: no, like I don't weigh myself regularly, but I don't think so.
+Doctor: OK
+Doctor: And any changes to your hair or, uh, nails or skin like rashes
+Patient: Uh, no
+Doctor: No, OK. How about, um, chest
+Doctor: pain
+Patient: Uh, no
+Doctor: No chest pain?
+Doctor: OK
+Doctor: Um, swelling in your limbs
+Doctor: Uh
+Patient: No.
+Doctor: No. Do you ever feel like your heart's racing
+Patient: No
+Doctor: No, OK
+Patient: Um
+Doctor: Um, how
+Doctor: Um
+Doctor: How about any dizziness or, or fainting
+Doctor: spells
+Doctor: Um
+Patient: No, like I've been just tired.
+Doctor: Just tired, OK
+Doctor: Yeah. Uh, I don't,
+Patient: I don't, I haven't saved
+Doctor: anything
+Doctor: OK
+Doctor: Any headaches
+Patient: No
+Doctor: No, OK. Uh, how about confusion or memory
+Doctor: loss
+Doctor: Um
+Patient: no, I don't think so
+Doctor: OK.
+Doctor: Um, any changes to your bowel habits
+Doctor: Um
+Patient: No.
+Doctor: No, OK. So, no constipation or diarrhea or blood in your stool?
+Patient: Yeah, exactly.
+Doctor: OK. Any changes to your urine?
+Patient: No.
+Doctor: OK. Any nausea or vomiting?
+Patient: No.
+Doctor: OK. And no abdominal aches?
+Patient: No.
+Doctor: Oh, OK. Um, are you otherwise healthy?
+Patient: Um, like I have um, I have, like some, um, like digestive problems generally like I haven't had any changes to that like they think it might be like Crohn's or something. Um, but other than that, no.
+Doctor: Um, you said you had digestive problems. Did you say it might be Crohn's?
+Patient: Yeah, like I, I've been seeing my family doctor and they, they said they thought it might be, um, but we don't really know. Just like in general, I guess they've been calling it IBS.
+Doctor: Oh, I see. OK.
+Patient: So there haven't been any changes right now.
+Doctor: Oh, yeah, I see it. OK. Um, have you ever had any hospitalizations or surgeries?
+Patient: No.
+Doctor: No, OK. Are you on any medications?
+Patient: No.
+Doctor: OK. Any allergies?
+Patient: Um, just, uh, pineapple, like not any medications or anything.
+Doctor: Pineapple, OK. Um, are you up to date with all your immunizations?
+Patient: Uh, yeah, yeah.
+Doctor: OK. Um, any family history of lung conditions or heart conditions?
+Patient: Like, my uncle had a heart attack.

@@ -1,0 +1,45 @@
+#### Presenting Complaint
+  * Cough for a couple of days, concerned about COVID-19.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Cough started 2 days ago, with a dry throat sensation 3 days ago.
+    * Cough is dry, no sputum or blood.
+    * No wheezing or shortness of breath, but feeling very tired.
+    * No over-the-counter medications taken, only tea with honey.
+    * No specific triggers identified, cough is constant throughout the day.
+    * Symptoms seem to be worsening each day.
+    * Mild sore throat developed recently, no difficulty swallowing.
+    * No runny or stuffy nose, no changes in hearing, vision, smell, or taste.
+    * Fever noted by nurse, patient feels hot but no thermometer at home.
+    * No chills, night sweats, weight loss, chest pain, limb swelling, heart racing, dizziness, fainting, headaches, confusion, memory loss, changes in bowel habits, changes in urine, nausea, vomiting, or abdominal aches.
+
+  * **Past Medical History**  
+    * Possible Crohn's disease or IBS, no hospitalizations or surgeries.
+
+  * **Review Of Systems**  
+    * General: Fever, fatigue.
+    * ENT: Dry throat, mild sore throat, no difficulty swallowing, no runny or stuffy nose, no changes in hearing, vision, smell, or taste.
+    * Respiratory: Dry cough, no wheezing, no shortness of breath.
+    * Cardiovascular: No chest pain, no limb swelling, no heart racing.
+    * Gastrointestinal: No changes in bowel habits, no nausea, vomiting, or abdominal aches.
+    * Neurological: No dizziness, fainting, headaches, confusion, or memory loss.
+    * Genitourinary: No changes in urine.
+
+  * **Current Medications**: nil  
+  * **Allergies**: Pineapple  
+  * **Social History**  
+    * Staying home due to COVID-19 concerns.
+    * Up to date with immunizations.
+
+  * **Physical Examination**: nil recorded  
+
+#### Assessment
+  * Possible viral infection, differential diagnosis includes COVID-19.
+
+#### Plan
+  * Check temperature to confirm fever.
+  * Consider COVID-19 testing due to symptoms and patient concern.
+  * Advise rest, hydration, and symptomatic treatment with tea and honey.
+  * Monitor symptoms and return if they worsen or new symptoms develop.
+

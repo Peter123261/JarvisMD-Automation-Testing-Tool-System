@@ -1,0 +1,56 @@
+#### Presenting Complaint
+  * Shortness of breath
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Patient reports increasing shortness of breath over the last couple of weeks, worsening in the last few days.
+    * Previously able to walk to the shops without issue, now needs to sit and catch breath even around the house.
+    * Patient has a history of heart failure and is concerned it may be worsening.
+
+  * **Past Medical History**  
+    * Heart failure diagnosed previously.
+    * Small heart attack approximately 5 years ago, with brief hospitalisation.
+
+  * **Review Of Systems**  
+    * Respiratory: Shortness of breath, dry cough (not troublesome).
+    * Cardiovascular: No chest pain, no palpitations or skipped heartbeats.
+    * General: Feeling a little rundown, swollen ankles (noticed in the last few days).
+    * No fever or temperature.
+    * Appetite and urination normal.
+
+  * **Current Medications**  
+    * **Medication name**: Furosemide  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+    * **Medication name**: Aspirin  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+    * **Medication name**: Metoprolol  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+    * **Medication name**: Simvastatin  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+
+  * **Allergies**: Nil recorded  
+  * **Social History**  
+    * Lives alone with two cats.
+    * Works part-time as a lorry driver, finds work exhausting.
+    * Ex-smoker, smoked a pack a day for 25 years.
+    * Does not drink alcohol.
+    * Tries to walk to the shops daily but no other significant exercise.
+
+  * **Physical Examination**: Nil recorded  
+
+#### Assessment
+  * Possible exacerbation of heart failure, given the history of worsening shortness of breath, swollen ankles, and previous heart failure diagnosis.
+
+#### Plan
+  * Increase dose of furosemide to 2 tablets a day for the first few days to manage symptoms.
+  * Conduct blood tests and an echocardiogram to assess heart function.
+  * Monitor patient's response to increased medication and follow up as needed.
+

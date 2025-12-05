@@ -1,0 +1,118 @@
+Doctor: Hello.
+Doctor: Hello, how are you? Hi, um, should we stop? Yeah, OK. Hello, um,
+Patient: Good morning.
+Doctor: So how can I help you this morning?
+Patient: Hi,
+Doctor: Um, I've just
+Patient: Had some, um, diarrhea for the last 3 days.
+Patient: Um, and it's been affecting me. I need to stay close to the toilet and, um, yeah, it's been affecting my day to day activities.
+Doctor: You know, I'm sorry to hear that. Um, and, and when you say diarrhea, what do you mean by diarrhea? Do you mean you're going to the toilet more often or are your stools more loose?
+Patient: Yeah, so it's like loose and watery still going to the toilet quite often, uh, and like some pain in my, like lower stomach.
+Doctor: OK. And how many times a day are you going, let's say, in the last couple of days?
+Patient: Probably like 6-7 times a day, 6-7
+Doctor: Times a day, and you mentioned it mainly watery. Have you noticed any other things like blood in your stools?
+Patient: No, no blood, yeah, just watery and loose stool.
+Doctor: OK. And you mentioned you've had some pain in your tummy as well. Whereabouts is the pain?
+Patient: Is that in my lower abdomen. So, uh, like, um, yeah, just to one
+Doctor: Side, one side, what side is
+Doctor: That?
+Patient: Uh, on the left side,
+Doctor: Side, OK. And can you describe the pain to me?
+Patient: Yeah, it feels, um, like a cramp, uh, like a muscular cramp and um yeah, I feel a bit weak and shaky.
+Doctor: OK. And there's a pain, is that, is it there all the time or does it come and
+Patient: Go? Uh, it comes and goes,
+Doctor: There's a pain move anywhere else, for example, towards your back?
+Patient: Um, no, just mainly in my stomach. OK.
+Doctor: And you mentioned you've been feeling quite weak and shaky as well. What do you mean by shaky? Do you mean you've been having, uh, you've been feeling feverish, for example?
+Patient: Um, yeah, it doesn't feel like, uh, yeah, it just makes me feel weak. I haven't had a fever, um, at the moment, but I did notice, um, a temperature when the symptoms started. So, um, yeah, around about 3 or 4 days
+Doctor: Ago, you measure your temperature then?
+Patient: Yeah, I didn't mention my temperature, no, but I felt, um
+Patient: Just a
+Doctor: Bit hot.
+Doctor: OK, OK.
+Doctor: Any other symptoms like sweating or
+Patient: Um uh no,
+Doctor: No. And uh any vomiting at all?
+Patient: Yes, so, um, I vomited at the start of the symptoms, but now, um, I've stopped vomiting.
+Doctor: You stop vomiting. OK. And was your vomit? I know it's not nice to talk about, but was it just normal
+Patient: Food color, yeah, just normal vomit,
+Doctor: And there was no blood in your vomit, is that right?
+Patient: No, no, no, OK, um,
+Doctor: And, um, any other symptoms at all? So you mentioned the tummy pain, you mentioned diarrhea, you mentioned your vomiting. Um, anything else that comes to mind?
+Patient: Um, I had the loss of appetite. Um, so I haven't been eating as much, um, but I've been able to hold down fluids.
+Doctor: OK, so you're drinking fluids. What kind of foods have you managed to eat anything?
+Patient: Um, just soups and, uh, yeah, light foods, like smoothies.
+Patient: Yeah, liquid foods, mainly.
+Doctor: OK, fine.
+Doctor: Um, and so we started 3 days ago, the symptoms. Are you aware of any triggers which may have caused your symptoms to kick on? So for example,
+Patient: things.
+Doctor: like takeaway foods or eating out or being around other people who would sing the symptoms.
+Patient: Yeah, so I had takeaway about 4 days ago, um, uh, but other than that, I've, yeah, I've been, uh, eating normally.
+Patient: I think unusual, yeah.
+Doctor: Do you remember what you ate?
+Patient: Um, yeah, I, I did a Chinese restaurant with friends.
+Doctor: OK.
+Doctor: Anyone else unwell with similar symptoms?
+Patient: Um, so no one else in the family side, uh, wife and two kids and one child was vomiting, but they haven't got diarrhea. There's no one with the same symptoms.
+Doctor: OK, OK, fine. Um
+Doctor: Right. And uh in terms of your, your overall health. Are you normally fitting well,
+Patient: um, yeah, I mean, other than, um, asthma, um, I use an inhaler, everything, uh, else is
+Doctor: fine.
+Doctor: OK.
+Doctor: And did your asthma well controlled?
+Patient: Uh, yeah, that's fine. Uh, just, yeah, you send inhaler and, uh, that's under control.
+Doctor: And you don't have any other tummy problems, bowel problems, I should be aware
+Doctor: of?
+Patient: No, no,
+Doctor: OK,
+Doctor: um, and apart from the inhalers, do you take any other medications?
+Patient: Uh, no, no other
+Doctor: medications. OK, fine.
+Doctor: In terms of just your, your day to day life, you said it's been affecting your life, um, in what way has it been affecting your life?
+Patient: Uh, so I need to stay close to the toilet because I go quite frequently during these past 3 days,
+Patient: um,
+Patient: yeah, other than that, it's, uh, yeah, the main concern.
+Doctor: And have you, are you currently working at the moment? Uh,
+Patient: yeah, I, I work,
+Doctor: work.
+Patient: Um, I'm an accountant. OK. Have
+Doctor: you been going to work the last 3 days or have you been at home?
+Patient: Uh, yeah, I've been going to work.
+Doctor: That must be difficult for you then.
+Patient: Yeah, it's been quite difficult.
+Doctor: and you said you mentioned you live with a wife and two children. Is that right?
+Patient: Yes, yeah,
+Doctor: right, um, just a couple of other questions we need to ask. Um, do you smoke at
+Doctor: all?
+Patient: Uh, no, I don't
+Patient: smoke.
+Doctor: Do you drink much in the way of alcohol
+Patient: Uh, no, I, I don't drink alcohol, no.
+Doctor: OK.
+Doctor: So, um
+Doctor: Uh, normally at this stage, I'll actually, um
+Doctor: Examine you if that's OK, but um um but but having listened to your stories, uh, I think, um, just to recap for the last 3 days, you've been having loose stool, diarrhea, a bit of tummy pain, mainly in the left hand side, and vomiting and feeling generally quite weak and lethargic, um, you mentioned you're having this Chinese takeaway as well 3 days ago, and I wonder whether that might be the cause of your problems.
+Patient: OK. Um,
+Doctor: it seems like you may have something, uh, called gastroenteritis
+Doctor: Which is essentially just the tummy bug or infection of your, of your
+Patient: tummy, um,
+Doctor: mainly caused by viruses, but they can be a possibility of bacteria, uh, causing your symptoms
+Patient: Uh
+Doctor: At this stage, uh, what, what we'd recommend is just what we say conservative management, so I don't think you need anything like antibiotics. It's really just um making sure you're well hydrated, so drinking fluids,
+Patient: um
+Doctor: Uh, there are things like dire light you can get from the pharmacy, which it's helps replenish some of your minerals and vitamins. OK, and if you are having vomiting and diarrhea, I would certainly recommend that at first, you know, first couple of days.
+Patient: Yeah
+Doctor: if you're feeling feverish and weak, taking some paracetamol, uh, 2 tablets up to 4 times a day for the first few days can also help. I would certainly advise you to take some time off work actually. I know you're quite keen to work. Um, I would say the next 2 to 3 days
+Doctor: Um, clears from your system, take some time off, rest,
+Patient: um,
+Doctor: you know, if your symptoms haven't got better, you know, in 3 to 4 days, I'd like you to come back and see me again. OK, because if it is ongoing, then we have to wonder whether there's something else causing symptoms, uh, and we may need to do further tests like um taking a sample of your stool so we can test that, um, etc. etc.
+Patient: Yeah, sure, yeah.
+Doctor: How's that sound
+Patient: That sounds great, yeah, yeah.
+Doctor: Do you have any questions for
+Doctor: me
+Patient: Um, no, no
+Doctor: further questions. OK, is, is the treatment plan clear
+Patient: Uh, yeah, yeah, that's, that's very clear. Thank you.
+Doctor: Great. Well, I wish you all the best. OK, thank you. Thank you.
+Patient: Bye

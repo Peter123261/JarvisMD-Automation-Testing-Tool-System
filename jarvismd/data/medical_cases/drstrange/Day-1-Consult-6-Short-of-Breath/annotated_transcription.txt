@@ -1,0 +1,190 @@
+Patient: um
+Patient: Hello
+Patient: Hello there. Uh, hello, can you hear me OK
+Doctor: Yes, I can hear you. OK, great. I am, yes,
+Doctor: Doctor here, Oscar,
+Patient: um
+Doctor: How can I help you this afternoon
+Patient: Um, I'm contacting you because I've been quite short of breath lately
+Doctor: OK
+Doctor: Can you tell me a bit more about it. When did it all start
+Patient: Uh, well, it seems to have been slowly getting worse over the last couple of weeks
+Patient: Um
+Patient: And it's become quite troublesome in the last few days
+Patient: Uh, kind of
+Patient: Normally I can walk to the shops without a problem,
+Patient: Now I'm having to sort of sit down and catch my breath, and I'm even starting to get a bit breathless just about the house
+Patient: And uh it's got me kind of worried
+Patient: Don't really know what's going on.
+Doctor: OK. OK. Is there anything you're particularly worried about
+Patient: Um, well
+Patient: I've, I've, uh
+Patient: I've got,
+Patient: Heart failure
+Patient: I was told
+Patient: Uh
+Patient: A while ago, um, and I got a bit breathless when I was first diagnosed and put on some medicine
+Patient: That, um, that helped, but I'm a bit worried it's it's getting worse.
+Doctor: OK. So you mentioned you've been feeling short of breath for the last couple of weeks, but mainly the last couple of days has got a bit worse. Um, uh, and you're now feeling more breathless on kind of minimal, minimal exertion you mentioned. Um, have you noticed any other symptoms at all, uh, with your breath, say for example, any pain in your chest
+Patient: No pain in my chest.
+Doctor: OK. Have you found yourself coughing, coughing at all
+Patient: Uh, I've got a bit of a dry cough, but it's not too troublesome.
+Doctor: OK, OK. And how's your general health otherwise? Are you feeling, uh, weak, lethargic
+Patient: Um, I'm feeling a little rundown, um, but otherwise
+Patient: Otherwise pretty normal. I've noticed my ankles have gotten bigger
+Doctor: OK. And what do you mean by that
+Patient: It's just like, it's sort of swollen up a bit
+Doctor: OK
+Doctor: Um, is that, is that both
+Doctor: Both ankles
+Patient: Yeah, both ankles. Yeah, it's a bit embarrassing.
+Doctor: I can imagine, yeah, um, and again, over how long has this, have you noticed this for
+Patient: Um, I kind of noticed it the last few days,
+Doctor: last few days, OK. And is this something that you've had before in the past
+Patient: Uh
+Patient: I think my ankles did swell up a bit last time, the heart failure was a problem.
+Doctor: OK, OK. Um
+Doctor: Fine. OK. So, um, just to really recap, so you really in the last couple of weeks, uh, you've been feeling breathless, uh, but worse in the last couple of days. You mentioned you had a bit of a dry cough, um, and some swelling in your ankles. Um, but importantly, no chest pain. Um, and, and, and have you, have you, have you noticed your heart beat racing at all, so palpitations or skipped heartbeat
+Patient: No, not really.
+Doctor: OK. And any temperatures or fevers
+Patient: Uh, no.
+Doctor: OK. And how about your appetite? Are you eating and drinking
+Doctor: OK
+Patient: Yeah, I'm, I'm, that's
+Doctor: fine.
+Doctor: OK, and your waterworks? Are you passing urine OK
+Patient: Uh, yeah, that,
+Doctor: yeah
+Patient: I usually pee a
+Doctor: lot
+Patient: the drugs.
+Doctor: Sure. OK.
+Doctor: All right. Um, so moving on to your past medical history. You mentioned heart failure. Any, any other medical history I should be aware of
+Patient: Uh, well, I was told I had like a, they called it like a small heart attack about 5 years ago. Um
+Patient: I
+Patient: I had, I, I had like a chest pain and they took me to hospital. And
+Patient: A, uh, but then I just got better
+Doctor: OK. When you say small hot site, did they give you a name for what happened, the name of a diagnosis
+Doctor: Uh
+Patient: I can't remember. I just called it something like that, a small heart attack.
+Doctor: OK, was it like angina or
+Doctor: Um
+Doctor: Uh
+Patient: I know they, they said they, it seemed it was like more than angina.
+Doctor: OK.
+Patient: Um
+Doctor: Uh
+Patient: But
+Patient: I didn't, but I only had to stay in hospital for a few days.
+Doctor: Uh
+Patient: And yeah, I've been OK since then.
+Doctor: You've been OK since then. OK, all right. So apart from the uh, the heart, the heart problems, the heart failure, any other problems I should be aware of
+Patient: Uh, no, I think I'm otherwise, I'm OK. OK.
+Doctor: Um,
+Doctor: do you take any regular medications apart from your diuretics that you're taking? Do you know which ones
+Patient: Yeah, it takes something called furosemide
+Doctor: and do you know what dose you're
+Doctor: taking
+Patient: Uh, I can't remember. I'm sorry, doctor.
+Doctor: I
+Patient: have to
+Doctor: check
+Doctor: No problems. Um
+Doctor: Any other
+Doctor: medications
+Patient: Uh, yeah, I take aspirin.
+Doctor: OK
+Patient: And uh Zoprolol
+Doctor: The metoprolol, was
+Doctor: it
+Doctor: Well,
+Patient: uh, metoprolol
+Doctor: or the connection is not very good. OK, thank you. Yeah
+Doctor: Um,
+Patient: uh, simvastatin,
+Doctor: simvastatin OK. All right.
+Doctor: Any allergies at all
+Doctor: to any medications?
+Patient: No, no allergies.
+Doctor: OK. And
+Doctor: is there anything in the family that's, uh, that, that's, uh, that's important for me to know. Any family history of medical problems, heart problems, lung problems
+Patient: Uh, my, my father died of a uh of a heart
+Doctor: attack.
+Doctor: I'm sorry to hear that, um, how old was your father when he passed away
+Doctor: Uh,
+Doctor: he was,
+Patient: um, early 60s,
+Doctor: early
+Patient: 60s, OK.
+Doctor: Uh,
+Doctor: anything else I should be aware
+Patient: of
+Patient: Um, my mother had osteoporosis.
+Doctor: OK
+Doctor: Is your
+Doctor: mother still with
+Doctor: us
+Patient: Uh, yes, she's still living.
+Doctor: OK. All right.
+Doctor: Um, and socially, sir, just tell me a bit more about your situation at home. Who lives at home with you
+Patient: Uh, I live on my own.
+Patient: I, I got 2 cats.
+Doctor: You got 2 cats. OK, great. Do they have names?
+Patient: They're my family. Uh.
+Patient: They're, they're called, um.
+Patient: They're called Holly.
+Patient: 10.
+Doctor: OK.
+Doctor: Um, so this is you and your cats, and um in terms of day to day, are you working at the moment?
+Patient: Uh, I work part time.
+Patient: A,
+Patient: Lorry driver.
+Doctor: OK. And how is that? Is that quite stressful, long hours?
+Patient: Uh.
+Patient: It's OK. Um.
+Patient: I,
+Patient: Yeah, like, when I'm working, it's pretty exhausting. Um, I guess I'm a bit worried that if I get sick, I won't, if I get more sick, then I won't be able to work properly.
+Doctor: Yeah, it's certainly a consideration, isn't there? So let's, let's try and get you better soon so it doesn't have any, um, impact on your, on your job. And and do you find yourself doing a lot of anti-social hours that you you do a lot of night driving, weekend driving?
+Patient: Oh no, I, I, I, I only take shifts during the day. I don't like working at.
+Doctor: night. And what about smoking and alcohol, because they can be very important when it comes to heart problems. So do you, do you smoke at.
+Doctor: all?
+Patient: Not anymore.
+Doctor: So you used to.
+Patient: smoke.
+Patient: Yeah.
+Doctor: And how many did you smoke a day on average?
+Patient: Oh, it's about, about a pack a day.
+Patient: Back in the day.
+Doctor: Um, and how many, how many years was that for?
+Patient: Oh, that was.
+Patient: Good 25 years.
+Doctor: OK.
+Doctor: Well done for stopping. I must be very difficult for you what I was stopping, um, and what, and what about alcohol?
+Patient: I don't drink alcohol.
+Doctor: OK. Do.
+Doctor: you do much in the way of exercise,
+Doctor: sir?
+Patient: Uh, I try and walk to the.
+Patient: shops.
+Patient: at least once a day. Um.
+Doctor: OK.
+Patient: But uh that's about it.
+Patient: Yeah, I don't.
+Patient: I don't go running like I used to when I was young.
+Doctor: Right, OK, now your symptoms, you, you said you're feeling more breathless even walking to the uh to the shop, she.
+Doctor: said,
+Doctor: um, right, so, um, based on your, based on your history and having listened to your story, I wonder whether you've had a flare-up of your heart failure, sir. Um, we can sometimes happen, um, um, and you know it's.
+Patient: what's going on.
+Doctor: I see that your heart's not pumping as well as it should be, um, and obviously having diagnosed with heart failure, there's obviously, um, posing that comes to my mind, um, now there's a couple of options to move forward, um.
+Doctor: Given that you otherwise well at the moment and having examined you, your chest and your saturations and blood pressure are all OK.
+Doctor: I'm quite happy to increase your dose of furosemide, maybe rather than one tablet a day, we can give you 2 tablets a day for the first few.
+Doctor: days.
+Doctor: Um, and see, and see how you're getting on.
+Patient: OK. Do you think that would be better.
+Doctor: I think it's it's definitely worth treating your symptoms, but what we should also think about is maybe doing a couple of other tests like a blood test, maybe an echocardiogram of your heart to see how well your heart's pumping.
+Patient: OK.
+Doctor: Is that something you've.
+Patient: had,
+Doctor: yeah, so, um, an echos, it's a jelly scan of your heart. You may have had it done before when you were diagnosed.
+Doctor: And it's just to.
+Patient: get a good.

@@ -1,0 +1,66 @@
+Patient: Hello.
+Doctor: Hello. Hi, I'm Doctor Jacob and welcome to Babylon. How are you doing?
+Patient: I'm OK, um, not feeling that great actually. I can't see your face properly just, yeah, that's it, that's good. Thank you.
+Doctor: So I'm sorry to hear that, but just before we start, is it alright if you could confirm your name for me, please?
+Patient: I'm <REDACTED PII>, um,
+Doctor: Date of birth?
+Patient: Date of birth, um
+Patient: <REDACTED PII>
+Doctor: OK. And your address for me, please?
+Patient: Um, I live on <REDACTED PII>
+Doctor: NG. That's correct. And just to confirm that you're in a secure location and we can have a confidential conversation?
+Doctor: Yeah. OK. So you've mentioned that you're feeling dizzy, is it? You know, yes,
+Patient: Yeah, I'm feeling, I'm, yeah, I'm just feeling very sick. It's probably because I'm feeling dizzy. Um, my room is sort of spinning, um
+Patient: And I, I can't, I can't walk properly. Uh, well, I can walk properly, but not straight. Um, and my ears are buzzing a bit feeling a bit off.
+Doctor: OK. He is buzzing. So when did it all start?
+Patient: Started probably about 2 hours ago maybe, but I, I, um, I had it a similar sort of thing about a month ago, um, but I didn't really think anything of it because it it settled quite quickly. Um, but this has been going for a bit more now.
+Doctor: OK. So you said you mentioned it started a few hours ago, so did it start? What were you doing?
+Patient: Um, I was actually making my husband some breakfast, um
+Patient: And I, yeah, I just suddenly felt
+Patient: Fuzzy and dizzy and a bit shaky.
+Doctor: OK, so you mentioned like the room spinning around? Yeah. OK. And is how long does it last for? Or is it that now continuously now?
+Patient: Yeah, it's, it's uh the whole time.
+Doctor: So it's there now for the past 2 hours, you'd say, yeah? Yeah, OK. Did you have any kind of viral illness in the recent past, past couple of weeks?
+Patient: No.
+Doctor: No cold, cough, nothing?
+Patient: No, I've been pretty healthy, I think. Um, yeah.
+Doctor: Yeah. OK. Um, you've mentioned that you have some year buzzing kind of thing, any kind of ear pain or ear discharge, anything like that?
+Patient: No, nothing.
+Doctor: OK. Do you have a temperature at all?
+Patient: I don't think so. Um,
+Doctor: OK. Right. You also mentioned that you can walk, but you're not walking straight. Why is that? Is it?
+Patient: I think just because the room feels like it's moving a bit, um,
+Doctor: It feels like that's why you feel like you're a bit unsteady, yeah.
+Patient: My, my legs and arms and everything are working fine. I
+Patient: I don't feel like I'm stable, my, the room is spinning.
+Doctor: So there's no weakness of your arms and legs. OK. OK.
+Doctor: Right, um, so you mentioned you had something like this a month ago. So, how, how, how long did that episode last for?
+Patient: Probably only about 5, 10
+Patient: minutes.
+Doctor: OK, right. And do you have any problems hearing at the moment? Like is it muffled or something?
+Patient: It's just a bit of a buzzy noise in my ears, but otherwise I can hear everything.
+Doctor: OK.
+Doctor: Invite you.
+Doctor: OK. So, have you been physically sick?
+Patient: No, but I am feeling very sick.
+Doctor: Nausea, OK.
+Doctor: Right here and I don't have much information of your past medical history. So is there any medical conditions you'd like to tell me surgical, medical conditions.
+Patient: Um, I've had premature ovarian failure, and I've taken HRT. OK,
+Doctor: And premature ovarian failure.
+Doctor: OK. And um any other medications at all?
+Patient: No.
+Doctor: OK. Do you have any allergies at all?
+Patient: No.
+Doctor: OK.
+Doctor: Right, OK, so talking to you today, um, in the, the most common, um, you know, diagnosis, we would say we are suffering from at the moment is something called labyrinthitis, yeah, OK, that's when your middle
+Doctor: There is some um some inflammation going on there and there is some imbalances in the crystals there in your middle ear, OK? So
+Doctor: What the most important treatment is actually giving you some kind of middle sedative so that you won't feel as if
+Doctor: Going around in a boat kind of feeling. OK? So that's what we need to start because to actually make you able to function a bit more, we'll start you on certain medications. I would still like you to be seen by one of our doctors to take a look inside your ears to just make sure. So this is like just symptomatic relief, like if you have a fever, we just give paracetamol. So just to, you know, make you able to come and see one of the doctors and things like that. But while you're with the doctors, we'd like to do your blood pressure
+Doctor: Just examine your, you know
+Doctor: You know, how you're walking and everything is
+Doctor: OK, while we're waiting, while you're waiting on seeing the doctor, if you develop any weakness of your legs or arms or, or, you know, a sudden headache, any of those symptoms or you start being violently sick with it, then, you know, you would need to take yourself to A&E
+Doctor: OK, but if not, wait for the appointment for the doctor to examine you, um, and we'll take it from there. So I'll, I'll send the prescription across your pharmacy. It looks like it's the Lloyds pharmacy on our system. Is that correct? Yeah, yeah. So we'll send you across that prescription. Um, it's called Schemeto. Yeah, it's one tablet 3 times a day. So I'll give you about 10 days' worth in the interim, obviously in the next few days, you'll get to see one of our doctors
+Doctor: And we'll have to just take it from there
+Patient: OK. Thank you so much.
+Doctor: Any questions at all?
+Patient: Um

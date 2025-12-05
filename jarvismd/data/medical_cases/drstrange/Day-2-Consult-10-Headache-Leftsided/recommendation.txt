@@ -1,0 +1,86 @@
+## Summary of Additional Recommendations
+
+- Consider ordering a brain MRI to rule out any structural abnormalities.
+- Evaluate for potential medication overuse headache if the patient has been using analgesics frequently.
+- Assess for other secondary causes of headache, such as sinusitis or temporomandibular joint (TMJ) disorders.
+
+## Things to Consider
+
+- Further questions about the frequency and duration of previous headaches.
+- Review the patient's use of caffeine and other stimulants.
+- Discuss potential side effects and interactions of ibuprofen with sertraline.
+
+## PRIMED Model Analysis
+
+### P: 3–4 Probable Diagnoses
+1. **Migraine**
+   - **Confidence %**: 70%
+   - **Supporting Findings**: Unilateral headache, sensitivity to light, history of anxiety.
+   - **Opposing Findings**: No family history of migraines, no nausea or vomiting.
+   
+2. **Tension Headache**
+   - **Confidence %**: 60%
+   - **Supporting Findings**: History of anxiety, stress, and work-related pressure.
+   - **Opposing Findings**: Unilateral pain, sensitivity to light (more typical of migraine).
+
+3. **Cluster Headache**
+   - **Confidence %**: 40%
+   - **Supporting Findings**: Severe unilateral headache, early morning onset.
+   - **Opposing Findings**: No autonomic symptoms (e.g., tearing, nasal congestion), no history of similar headaches.
+
+### R: Red Flag Conditions
+- Intracranial hemorrhage
+- Brain tumor
+- Meningitis
+
+### I: Important Often-Missed Conditions
+- Medication overuse headache
+- Sinusitis
+- TMJ disorders
+
+### M: Masquerades
+- Sinusitis
+- TMJ disorders
+
+### E: Patient Expectations
+- Relief from severe headache
+- Understanding the cause of the headache
+- Effective management plan
+
+### D: Diagnostic Clusters
+- Unilateral headache, sensitivity to light, history of anxiety (suggestive of migraine)
+- Severe headache, early morning onset (suggestive of cluster headache)
+
+## Most Likely Diagnosis
+- **Name**: Migraine
+- **Confidence %**: 70%
+- **Rationale**: The patient's symptoms of unilateral headache and sensitivity to light, combined with a history of anxiety and stress, are most consistent with a migraine. The absence of nausea and vomiting slightly lowers the confidence but does not rule out the diagnosis.
+
+## Recommendations for Further Diagnostic Steps
+
+1. **Brain MRI**
+   - **Type**: Non-invasive
+   - **Urgency**: Moderate (within the next few weeks)
+   - **Patient-specific considerations**: Rule out structural abnormalities.
+   - **Pros and Cons**: High sensitivity for detecting structural causes; expensive and may require referral.
+
+2. **Medication Overuse Assessment**
+   - **Type**: Clinical evaluation
+   - **Urgency**: During follow-up visit
+   - **Patient-specific considerations**: Evaluate the frequency of analgesic use.
+   - **Pros and Cons**: Simple and non-invasive; requires detailed patient history.
+
+3. **Sinus and TMJ Evaluation**
+   - **Type**: Clinical examination and possibly imaging (e.g., sinus X-ray)
+   - **Urgency**: During follow-up visit
+   - **Patient-specific considerations**: Rule out secondary causes of headache.
+   - **Pros and Cons**: Can identify treatable causes; may require additional referrals.
+
+## Disclaimer and Limitations
+“This analysis is not a substitute for professional medical evaluation and should not be used as definitive medical advice.”
+- **Missing clinical information**: Detailed history of previous headaches, caffeine and stimulant use, and a thorough neurological examination.
+
+## Acknowledgment of Missing Data / Limitations
+- Detailed history of previous headaches
+- Caffeine and stimulant use
+- Thorough neurological examination

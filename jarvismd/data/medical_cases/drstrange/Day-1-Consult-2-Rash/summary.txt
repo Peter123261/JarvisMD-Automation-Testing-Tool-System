@@ -1,0 +1,39 @@
+#### Presenting Complaint
+  * Patient reports having sore, red, and itchy skin for the past few days, primarily affecting the chest, hands, and arms.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Symptoms started 4 days ago.
+    * Patient describes the skin as sore, red, and very itchy, affecting daily activities and sleep.
+    * Previously had eczema, but current symptoms are more widespread and severe.
+    * Tried using a steroid cream from the pharmacy, which did not alleviate the symptoms.
+    * No bleeding or discharge from the skin, but some areas are cracked.
+
+  * **Past Medical History**  
+    * History of eczema.
+    * Past history of asthma, which is no longer an issue.
+
+  * **Review Of Systems**  
+    * General: No fever or temperature.
+    * Skin: Sore, red, itchy, and cracked skin on the chest, hands, and arms.
+    * Respiratory: No cough or breathing difficulties.
+    * Gastrointestinal: Bowel movements are normal.
+    * Genitourinary: No issues with urination.
+
+  * **Current Medications**: nil recorded  
+  * **Allergies**: No known allergies.  
+  * **Social History**  
+    * Patient finds it difficult to focus at work due to the itching.
+    * Enjoys hiking but has been unable to do so due to the pain and discomfort.
+
+  * **Physical Examination**: Nil recorded.  
+
+#### Assessment
+  * Possible exacerbation of eczema or a different dermatological condition given the increased severity and spread of symptoms.
+
+#### Plan
+  * Consider prescribing a stronger topical steroid or alternative medication for eczema.
+  * Recommend avoiding potential irritants such as new shower gels or clothing materials.
+  * Advise on proper skin care routines to manage symptoms.
+  * Follow-up appointment to monitor progress and adjust treatment as necessary.
+

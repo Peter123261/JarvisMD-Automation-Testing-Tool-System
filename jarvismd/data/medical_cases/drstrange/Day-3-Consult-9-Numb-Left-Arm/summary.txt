@@ -1,0 +1,57 @@
+#### Presenting Complaint
+  * Numbness and tingling in the left arm and fingertips, with mild weakness.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Patient has been experiencing numbness and tingling in the left arm and fingertips for at least 2 weeks.
+    * Symptoms have worsened over time, initially starting with tingling and progressing to numbness.
+    * Patient has tried massages and warm baths without relief.
+    * Patient takes ibuprofen for muscle soreness from boxing classes.
+
+  * **Past Medical History**  
+    * Recent bad cold lasting about 2 weeks.
+    * Temporary loss of vision in the left eye for about 20 minutes a few weeks ago.
+
+  * **Review Of Systems**  
+    * General: Fatigue, especially after workouts.
+    * Neurological: No seizures or fits, no neck pain, no significant headaches except for tired headaches.
+    * Ophthalmological: Temporary loss of vision in the left eye for about 20 minutes.
+
+  * **Current Medications**  
+    * **Medication name**: Ibuprofen  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**: as needed for muscle soreness  
+    * **Medication name**: Vitamin D  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+    * **Medication name**: Iron supplements  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**: infrequently  
+    * **Medication name**: Melatonin  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**: sometimes for sleep  
+
+  * **Allergies**: nil recorded  
+  * **Social History**  
+    * Patient attends boxing classes.
+    * Recent heavy drinking episode with friends.
+    * Plays piano.
+    * No smoking mentioned.
+
+  * **Physical Examination**: nil recorded  
+
+#### Assessment
+  * Possible nerve compression or injury related to boxing activities. Differential diagnoses include peripheral neuropathy or other neurological conditions.
+
+#### Plan
+  * Consider referral to a neurologist for further evaluation.
+  * Possible imaging studies (e.g., MRI) to assess for nerve compression or other abnormalities.
+  * Advise patient to avoid activities that exacerbate symptoms.
+  * Discuss potential benefits and risks of continuing boxing classes.
+  * Consider physical therapy for symptom management.
+  * Follow-up appointment to monitor symptoms and response to any interventions.
+

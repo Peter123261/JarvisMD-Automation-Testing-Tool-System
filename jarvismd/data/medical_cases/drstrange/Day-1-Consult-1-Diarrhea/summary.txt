@@ -1,0 +1,45 @@
+#### Presenting Complaint
+  * Diarrhoea for the last 3 days, affecting daily activities.
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Diarrhoea for 3 days, with loose and watery stools, occurring 6-7 times a day.
+    * Lower abdominal pain, described as a cramp, mainly on the left side, comes and goes.
+    * Weakness and shakiness, no fever currently but felt hot at the onset of symptoms.
+    * Vomiting at the start of symptoms, now resolved.
+    * Loss of appetite, consuming mainly soups and smoothies.
+    * Possible trigger: Chinese takeaway 4 days ago.
+
+  * **Past Medical History**  
+    * Asthma, controlled with inhaler.
+
+  * **Review Of Systems**  
+    * Gastrointestinal: Diarrhoea, abdominal pain, vomiting (resolved), loss of appetite.
+    * General: Weakness, shakiness, no current fever but felt hot initially.
+
+  * **Current Medications**  
+    * **Medication name**: Inhaler  
+       **Formulation**:   
+       **Dosage**:   
+       **Usage frequency**:   
+
+  * **Allergies**: nil recorded  
+  * **Social History**  
+    * Lives with wife and two children.
+    * One child had vomiting but no diarrhoea.
+    * Non-smoker.
+    * Does not consume alcohol.
+    * Works as an accountant, has been going to work despite symptoms.
+
+  * **Physical Examination**: nil recorded  
+
+#### Assessment
+  * Likely gastroenteritis, possibly triggered by recent Chinese takeaway. Symptoms include diarrhoea, abdominal pain, weakness, and initial vomiting.
+
+#### Plan
+  * Conservative management recommended.
+  * Ensure adequate hydration, consider oral rehydration solutions like Dioralyte.
+  * Paracetamol for fever and weakness: 2 tablets up to 4 times a day.
+  * Advise taking 2-3 days off work to rest.
+  * If symptoms persist beyond 3-4 days, return for further evaluation, including potential stool sample testing.
+

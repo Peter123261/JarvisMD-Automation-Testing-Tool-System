@@ -1,0 +1,110 @@
+Doctor: Hello.
+Doctor: Hello, hello. Can you hear me OK? I can hear you, but I can't really see you. That's perfect.
+Doctor: Um.
+Patient: Is, is that OK? Am I meant
+Doctor: connection on the screen it's audio, no, no, it's absolutely fine.
+Doctor: Uh, now before I go any further, can I confirm your name and your age?
+Doctor: Um,
+Patient: Um, my name is, uh, <REDACTED PII>,
+Patient: 72727.
+Doctor: OK. And how can I help you this afternoon, <REDACTED PII>?
+Patient: Um, so I've just, um, been having some troubles, basically in uh it's, uh, I guess you've been a
+Patient: Well now, and I've just
+Patient: Feeling not so great and it's all come from like, uh, it's like basically I think
+Patient: Diarrhea and is like just coming out, like loads of it, like, I, I go to the toilet and it's
+Unknown: just
+Patient: super watery, and
+Patient: Yeah, it doesn't do it very solid. It's just, it's just going straight from my bum and like just coming out and it's
+Patient: Yeah, it's just, uh, not, not being very pleasant and like, I just, it just kind
+Patient: I didn't feel like it's getting better, so, well,
+Doctor: no, sorry to hear. It seems like there's a lot going on there. Well, when did it all start, your symptoms?
+Unknown: Um, so I, I think it was a few,
+Patient: when I think about it
+Patient: So, Monday, Tuesday, I, I, I think it was about 3, it's been about 3 days now.
+Doctor: OK. And is it mainly diarrhea, so you mentioned watery stools, um
+Doctor: How many times are you going a
+Patient: day would you say
+Patient: Um, so I, I feel like it's like almost every hour when I'm awake, um, so you
+Doctor: right you're losing a lot of fluid there
+Patient: Yeah, so, I mean, I'm I'm trying to drink a lot of water
+Patient: But um, yeah, it's just quite a lot and uh
+Patient: Yeah, I, I think, uh, I, I feel like it's just, just lus coming
+Doctor: out. OK. Have you seen any blood in your stools?
+Patient: Um
+Patient: So I, no, I don't, I don't remember anything like, no, I, I think it's just, uh, nothing like that. There's nothing like that. And
+Doctor: any, any tummy pain, any, any, any pain in your
+Patient: tummy with, I mean, I, it, I feel, I feel a crap
+Patient: Um, and then, and then I know it's time to go, right? So around every hour, I just feel something come up, and then I have to go. So, yeah, I mean, that's, that's the kind of the first sign.
+Doctor: Where is this? Which part of your tummy
+Doctor: It's kind of I
+Unknown: I wanna,
+Patient: if I think about it, it's like, it's like at the bottom, uh, I don't know if that makes sense,
+Doctor: why don't we start with, is it, is it in the middle or is it to one
+Patient: particular side
+Patient: Um, I, I think it, it feels pretty like in the middle to me, not on any side, left to right.
+Doctor: OK. And does this pain come and go or is it there constantly?
+Patient: Um, it, it comes and goes, it comes and goes.
+Doctor: OK, and if I was to ask on a scale of 1 to 10, 10 being the worst pain you've ever had, how bad is this pain?
+Patient: OK, so like, um, what do you mean by OK, so I, I think it's maybe.
+Doctor: Is, is this pain that's making you double over? Is it 10 out of 10 the worst pain you've ever had, or is it more of a kind of a mild pain, like a 3 out of 10?
+Patient: I, I guess so. I, when I think about it, like when I get it, I can pretend that I don't feel it, so I can still sit down. Uh, I can still like, cover it up, and people don't really notice, so I, I don't know what that means, but maybe it's that like a 6 or 7. OK.
+Doctor: All right, good. Um, apart from the pain and diarrhea, any other symptoms like nausea, vomiting?
+Patient: Um, yeah, I definitely, I definitely feel kind of nauseous, um. Like, and, and like I've have vomited and when I like, I think it's maybe something to do with like, whenever I have like milk or something like that, I just feel like I want to vomit and actually like, yeah, one time I just like had some milk and I just completely vomited. I've been trying to avoid it, but, um, yeah.
+Doctor: But the vomiting is not as pronounced as the diarrhea, is that right?
+Patient: Sorry, could you repeat that?
+Doctor: The vomiting is not as prominent as the diarrhea, is that right?
+Patient: Uh, no, no, it's not. OK.
+Doctor: OK, all right. Um, any other symptoms like fevers or temperatures?
+Patient: Um, so I, yeah, I think I, I'm pretty, I feel kind really hot all the time and, um, I'm pretty sure I'm burning up. I haven't actually done any temperature reading or anything like that, but it's, uh, yeah, I, I. OK. Sure, I'm, I'm, no, uh, like not a normal temperature.
+Doctor: OK, so you're feeling hot, OK. And in terms of your water works, are you passing urine OK?
+Patient: Um, yeah, but I guess that frequently, maybe, um, but yeah, it seems to be OK.
+Doctor: OK, all right, um, fine, and you said you mentioned 3 days ago is when it all kicked off. Are you aware of any triggers? I mean, have you, for example, gone out, had some takeaway food? Have you been around anyone else and with diarrhea, for example?
+Patient: Um, so I know, so my, um my brother has had actually had something like this. Um, but he has it as well for 5 days as well. Um, and I, I'm not, yeah, I, I can't think of what what the trigger is for me. I mean, my brother normally can deal, deals with this stuff a lot better than me, but yeah, I, that's why.
+Doctor: Is your brother now better?
+Patient: Um, he's been like this for 5 days. I think he's getting better, but I'm not, I'm not really sure. He said, he said he had, he's had something for a little while as well.
+Doctor: OK. Alright. Are you having anything to eat or drink? I can see you're drinking your coffee, but are you keeping it down? Are you keeping your fluids down?
+Patient: So, it just feels like, um, the, the fluids do go down, but it just feels like it's going straight through. Just feels like it's going straight through.
+Doctor: OK. All right, fine.
+Doctor: When was lost to anything solid to eat, uh, which, which, uh, which he kept in
+Patient: Um,
+Patient: so
+Patient: I had
+Patient: I mean, I had some lunch today, um
+Patient: But again, it just, it just can come out pretty
+Doctor: loose. Um, and, and Dan, moving forward, are you otherwise fitting well or do you have any other medical history
+Patient: Um,
+Patient: so I, um
+Patient: Yeah, I think, I think otherwise, um fit well. I, um
+Patient: Yeah, I mean, I,
+Patient: I'm
+Patient: An
+Patient: OK way and um I,
+Patient: Can't think of
+Patient: Related medical history, um, I mean, like
+Patient: Yeah, I, no, I, I don't think so.
+Doctor: I take it you don't take any regular medications then
+Patient: So
+Patient: Um
+Patient: No, I mean, I, I've been taking some like paracetamols and stuff like that lately, but uh I haven't been, I'm not on any regular medication or anything like that?
+Doctor: OK. And do you have any allergies to any medications
+Patient: Um, so I don't have any allergies that I know of. OK.
+Doctor: And what about any family history? Do you have any family history of bowel problems
+Patient: Um, uh, so with, with bo like this is the
+Doctor: colon like something yeah, so what I mean about is the whole gut really from the
+Patient: So
+Patient: my,
+Patient: yeah, my, my dad actually has, um, colon cancer at the moment.
+Doctor: Oh dear, I'm really sorry to hear that. How is he
+Patient: So, um, from what I heard, he's kind of, so I don't, I don't speak to him that often, so I don't, I don't know the exact
+Patient: Details and I, I don't exactly know the full things of like the steps of cancer and all that kind of thing, but um he's sort of in his 3rd stage. Uh, I'm not sure what that means exactly, um, yeah, so yeah, it's, it's, um
+Patient: He's
+Patient: Yeah, you can, I can see he's kind of weaker and it's affecting a lot and, um, that's it's quite, I, I guess
+Patient: it's
+Patient: Um, had it for a little while
+Doctor: now. I'll make a note that because uh it's important to know these kind of details, um, and socially, tell me more about your home situation. Who's at home with you, Dan
+Patient: Um,
+Patient: Uh, not my brother, he doesn't live with me. I'm, I live with my um sister and my mom
+Patient: OK.
+Doctor: And uh how are things at home
+Patient: Um, what sense do you mean that
+Doctor: general day to day life, are you managing OK? Any particulars

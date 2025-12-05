@@ -1,0 +1,95 @@
+Doctor: Hello.
+Doctor: Hello.
+Doctor: Hello, can you hear me? I can hear you. Can you hear me?
+Patient: Yeah, I can hear you now. Excellent. Just before
+Doctor: I go any further, can you confirm your name and your age, please?
+Patient: Oh, yeah, my name is <REDACTED PII>, and I'm 19 years old. OK.
+Doctor: And how can I help you, Mrs. Smith?
+Patient: Um, yeah, so, uh, I mean, this is, this is a bit embarrassing, but it's kind of a hurting when I, when I use the bathroom, when I pee, and
+Patient: It's been going on for a few days, so I'm, I'm a little bit worried about it. Uh, I'm not sure what to do.
+Doctor: Right, thank you for coming in today. Hopefully we can help with your symptoms. Um, so you mentioned it started a few days ago. Um, so can you tell me a bit more about that? What kind of pain it is that you're experiencing?
+Patient: Um, it's, it's not too bad. It's sort of like a stinging kind of pain. Um, it's not like unbearable, but uh it's, it's definitely uh it definitely bothers me when I pee, um
+Patient: And
+Patient: Yeah, I also maybe sometimes get some like pain kind of lowered down in my tummy when I, when I go to the bathroom.
+Doctor: And, and, uh, the pain in your tummy, is it, can you describe the, the, the pain to me? Is it cramping, burning, sharp?
+Patient: Um, yeah, I don't know, maybe, uh
+Patient: Sort of, sort of cramping. I'm not really sure, but it's not like, it's not like cramping like when I get, when I have a period or something. It's like, I don't know. OK,
+Doctor: OK, um, fine. And have you found yourself going to the toilet more often than normal?
+Patient: Um, not, I don't think so. I haven't noticed that.
+Doctor: No, OK, fine. Have you noticed any, any funny color to your urine. So has it been, uh, any blood in your urine, or have you noticed any other darkening of your urine?
+Patient: Um
+Patient: There was a little bit of blood earlier today, um, but besides that, not at all, no. Um, it does kind of, it, it's kinda like doesn't smell very, it smells a bit weird, I guess, um,
+Patient: No, not really anything, uh, anything drastic.
+Doctor: OK, fine,
+Patient: OK.
+Doctor: Um, right, let me just take, write a few notes down as well. Um
+Doctor: Fine. And you mentioned the tummy pain, that also started a few days ago. Does the pain move anywhere else? Does it move towards the back or towards your flank, the sides?
+Patient: No, not really. No.
+Doctor: No. OK, fine. Would the symptoms, have you noticed any other symptoms like nausea, vomiting?
+Patient: Uh, no, not, not at all.
+Doctor: OK.
+Doctor: Any fevers or temperatures?
+Patient: Yeah, just, just the same.
+Doctor: So
+Doctor: Sorry, any, any fevers or temperatures? Sorry, I didn't hear you.
+Patient: No, no, no fever. No fever.
+Doctor: OK, fine, sorry, um, OK, um, in terms of your bowels, are your bowels working OK?
+Patient: Um, I think so, yeah, any, any diarrhea, loose stool?
+Patient: Uh, no, not that I, not that I've noticed at all.
+Doctor: OK. All right. And um, Jessica, sometimes we have to ask very private sensitive questions, uh, just to get a full history. um, hope you don't mind me asking, are you currently sexually active?
+Patient: Uh, yeah, I am.
+Doctor: And is that with a regular partner?
+Patient: Um, yeah, so I, I've had a boyfriend for about a couple months now, yeah.
+Doctor: Fine. OK. Um, have you noticed any other discharge from, from down below?
+Patient: I haven't noticed anything, no.
+Doctor: No, OK. When was your last, um, uh, last STD screen?
+Doctor: If, if ever.
+Patient: Don't think I've ever, I don't think I've ever had one.
+Doctor: OK, um, and um do you use any form of contraception at all?
+Patient: Oh yeah, we use condoms.
+Doctor: We use condoms, OK. And when was your last period?
+Patient: A couple of weeks ago. 3 weeks. Is there any chance you could be pregnant, perhaps?
+Patient: Say it again.
+Doctor: Any chance you could be pregnant?
+Patient: Uh, I don't think so.
+Doctor: It's always worth asking, uh, young females like yourself, uh, uh, um, so if that obviously if you are worried about the pain, um, not getting any better, then I always advise you doing a pregnancy test to rule out pregnancy, OK? Um, fine, so just moving on, moving on. Are you otherwise fitting well?
+Patient: Um, yeah, I think I'm, I'm feeling OK otherwise, yeah.
+Doctor: And so by that I mean, do you have any other medical problems, medical medical history?
+Patient: Um, so in the past I've had some uh some IBS, um
+Patient: But other than that, I think no like uh no serious medical problems that seem, yeah. OK.
+Doctor: Do you take any regular medications?
+Patient: Uh, no. I did a, I did a, a little bit ago or a couple of days ago, try some uh over the counter bicarbonate to try and help with the pain, but it wasn't, it wasn't really helping.
+Doctor: OK, so you didn't help. OK, all right. Um, do you have any allergies to any medications?
+Patient: Oh, yeah, I'm allergic to clindamycin.
+Doctor: And what happens when you take clindamycin?
+Patient: Um, I, I get some like a, a swelling, basically.
+Doctor: It seems like quite severe allergy to it. Is that, is that right? Um, in terms of your family history, is there anything I should be aware of? Um, relates to kidneys, bladder, bowels, gut.
+Patient: Uh, no, I don't think so. Not that I, not anything I know about.
+Doctor: OK. And tell me a bit more about your home situation. Who lives, who's at home with you?
+Patient: Um, so I live in a live in a flat near my college with uh a couple like friends of mine, uh, so I'm, I'm not like living at home or anything. Um, would you you're asking about
+Doctor: OK. And are you, are you working at the moment or are you a student?
+Patient: I'm a student.
+Doctor: OK, and what are you studying?
+Patient: I'm studying biology.
+Doctor: And how's that going?
+Patient: Um, it's good. Yeah, it's really, it's really interesting, uh, learning.
+Patient: Learning about how, uh, how the world works, yeah.
+Doctor: Great. Do you have any aspirations for the future in terms of careers?
+Patient: I don't know, maybe a doctor someday, you never know.
+Doctor: We need doctors, um.
+Doctor: What about smoking and alcohol? Do you drink much in the way of, uh, do, do you smoke or do you drink much in the way of alcohol?
+Patient: Uh, I don't, I don't smoke. Uh, I do drink like on the weekends.
+Doctor: Socially.
+Patient: OK.
+Doctor: All right.
+Doctor: Excellent. So, um, at this stage, I'll, I'll proceed to examination, but um based on your story, um, just to summarize, really, it's the last 3 days you've been having a bit of burning pain or passing urine, a bit of crampy tummy pain lower down.
+Doctor: Essentially, but, but no other fevers or back pain, uh, if, if I understand correctly.
+Doctor: You probably do have what we call a simple UTI or urinary tract infection, bladder infection, um, which can be readily treated. So I'll give you a course of antibiotics today. Some called uh the nitrofurantoin or trimethoprine, uh, and it's normally a three-day course, so 1 tablet twice a day for 3 days and that should help your symptoms, but I also advise you to drink plenty of fluids. Let's try and flush that, you know, that infection out of your body if you can.
+Doctor: You can try cranberry juice, that can sometimes help with your symptoms. Um, and if you're still not better by the end of this week, I want you to give me a call or come back and see me and we can have another look at your symptoms.
+Patient: OK, so 3 days of the medication and then wait a little bit. If it still doesn't go away, call back.
+Doctor: Yeah, and things to look out for would be, you know, if you are having kind of high temperatures, back pain, um, just generally feeling more unwell, uh, you know, do give me a call back because then we do worry whether your infection may be spreading up towards your kidneys, which is something we want to avoid. So do, do give me a call if you have any concerns, OK?
+Patient: OK, is there, is there anything like, like should I be worried about like, like not having sex or anything within the next week or anything like this. I mean,
+Doctor: If you can try and avoid it, I think that'd be sensible, um, it's greatly using barrier conception of recommend you to continue using barrier contraception, but if you can avoid it while your symptoms clear up, that would be the best for you and your boyfriend. OK?
+Patient: OK. Uh, that, that makes sense. Right.
+Patient: Thank you so much.
+Patient: Yeah, thank you.

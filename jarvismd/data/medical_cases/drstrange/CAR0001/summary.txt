@@ -1,0 +1,50 @@
+#### Presenting Complaint
+  * Chest pain
+
+#### Observations
+  * **History Of Presenting Complaint**  
+    * Chest pain started last night and has been constant for about 8 hours.
+    * Pain is located on the left side of the chest and is described as sharp.
+    * Pain worsens when lying down and possibly with deep breaths.
+    * Pain severity is rated as 7 or 8 out of 10.
+    * Associated symptoms include lightheadedness, trouble breathing, and slight heart racing.
+    * No loss of consciousness, no radiating pain, no recent immobilization, no infectious symptoms, no nausea, vomiting, fever, chills, abdominal pain, urinary or bowel problems, cough, or wheezing.
+    * Patient reports neck swelling but no neck pain or trauma.
+
+  * **Past Medical History**  
+    * No prior medical conditions.
+    * No recent hospitalizations.
+    * No prior surgeries.
+
+  * **Review Of Systems**  
+    * General: Lightheadedness, trouble breathing, slight heart racing, no loss of consciousness, no fever, chills, or night sweats.
+    * Cardiovascular: No radiating pain, no recent immobilization, no history of heart attack or stroke in the patient.
+    * Respiratory: Trouble breathing, no cough, no wheezing, no noisy breathing.
+    * Gastrointestinal: No nausea, vomiting, abdominal pain, or bowel problems.
+    * Genitourinary: No urinary problems.
+    * Skin: Neck swelling, no rashes.
+
+  * **Current Medications**: nil  
+  * **Allergies**: None  
+  * **Social History**  
+    * Lives alone in an apartment.
+    * Works as an accountant.
+    * Smokes about a pack of cigarettes a day for the past 10-15 years.
+    * Occasionally smokes cannabis (about 5 mg per week).
+    * Drinks 1-2 alcoholic drinks a day (about 10 drinks a week).
+    * Tries to eat healthy dinners but often eats out for lunch.
+    * Exercises every other day by running for about half an hour.
+
+  * **Physical Examination**: nil recorded  
+
+#### Assessment
+  * Primary diagnosis: Chest pain of unknown origin.
+  * Differential diagnoses include musculoskeletal pain, cardiac issues (given family history of heart attack and cholesterol problems), and respiratory issues.
+
+#### Plan
+  * Consideration of cardiac evaluation due to family history of heart attack and cholesterol problems.
+  * Possible musculoskeletal evaluation given recent activity (moving furniture) and pain characteristics.
+  * Respiratory evaluation due to trouble breathing and neck swelling.
+  * Lifestyle modifications: Smoking cessation, reducing alcohol intake, and maintaining a healthy diet and regular exercise.
+  * Patient education on recognising symptoms of serious conditions and when to seek immediate medical attention.
+

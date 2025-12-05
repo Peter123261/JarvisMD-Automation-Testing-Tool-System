@@ -1,0 +1,80 @@
+## Summary of Additional Recommendations
+
+- Consider ordering an MRI to rule out central causes of vertigo.
+- Evaluate for orthostatic hypotension with a tilt table test.
+- Check for vestibular function with electronystagmography (ENG) or videonystagmography (VNG).
+
+## Things to Consider
+
+- Further questions: Any recent head trauma? Any history of migraines?
+- Medication interactions: Review HRT interactions with prescribed medications.
+- Preventive care: Ensure patient is up-to-date with routine health screenings.
+
+## PRIMED Model Analysis
+
+### P: 3–4 Probable Diagnoses
+1. **Labyrinthitis**
+   - **Confidence %**: 70%
+   - **Supporting Findings**: Acute onset of dizziness, room spinning, ear buzzing, no recent viral illness.
+   - **Opposing Findings**: No ear pain or discharge.
+2. **Benign Paroxysmal Positional Vertigo (BPPV)**
+   - **Confidence %**: 60%
+   - **Supporting Findings**: Room spinning, dizziness, no hearing loss.
+   - **Opposing Findings**: Continuous symptoms rather than episodic.
+3. **Vestibular Migraine**
+   - **Confidence %**: 50%
+   - **Supporting Findings**: Dizziness, room spinning, no recent viral illness.
+   - **Opposing Findings**: No history of migraines mentioned.
+4. **Meniere’s Disease**
+   - **Confidence %**: 40%
+   - **Supporting Findings**: Dizziness, ear buzzing.
+   - **Opposing Findings**: No hearing loss, no episodic nature.
+
+### R: Red Flag Conditions
+- Stroke
+- Brain tumor
+- Multiple sclerosis
+
+### I: Important Often-Missed Conditions
+- Orthostatic hypotension
+- Acoustic neuroma
+
+### M: Masquerades
+- Anxiety disorders
+- Hypoglycemia
+
+### E: Patient Expectations
+- Relief from dizziness and nausea.
+- Understanding the cause of symptoms.
+
+### D: Diagnostic Clusters
+- Dizziness, room spinning, ear buzzing, unsteady gait.
+
+## Most Likely Diagnosis
+- **Labyrinthitis**
+- **Confidence %**: 70%
+- **Rationale**: The acute onset of dizziness, room spinning, and ear buzzing without recent viral illness or ear pain/discharge strongly suggests labyrinthitis.
+
+## Recommendations for Further Diagnostic Steps
+
+1. **MRI (Non-invasive)**
+   - **Urgency**: Moderate
+   - **Patient-specific considerations**: Rule out central causes of vertigo.
+   - **Pros and Cons**: High sensitivity for central lesions; expensive and time-consuming.
+
+2. **Tilt Table Test (Non-invasive)**
+   - **Urgency**: Moderate
+   - **Patient-specific considerations**: Evaluate for orthostatic hypotension.
+   - **Pros and Cons**: Can identify orthostatic hypotension; may cause discomfort.
+
+3. **Electronystagmography (ENG) or Videonystagmography (VNG) (Non-invasive)**
+   - **Urgency**: Moderate
+   - **Patient-specific considerations**: Assess vestibular function.
+   - **Pros and Cons**: Provides detailed vestibular function analysis; requires specialized equipment.
+
+## Disclaimer and Limitations
+“This analysis is not a substitute for professional medical evaluation and should not be used as definitive medical advice.”
+- **Missing clinical information**: No history of migraines, no recent head trauma, no detailed past medical history.
+
+## Acknowledgment of Missing Data / Limitations
+- **N/A**
