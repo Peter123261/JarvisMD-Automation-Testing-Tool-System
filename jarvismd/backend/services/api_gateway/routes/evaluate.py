@@ -881,7 +881,8 @@ async def get_latest_job_metrics(
     try:
         job = _get_target_job(db, job_id)
         if not job:
-            raise HTTPException(status_code=404, detail="No completed evaluation jobs found")
+            # Return null instead of 404 when no jobs exist - this is expected for empty state
+            return None
     except HTTPException:
         raise
     except Exception as e:
