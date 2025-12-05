@@ -369,5 +369,5 @@ MIT License - see LICENSE file for details
 
 ---
 
-**Built with ❤️ by the JarvisMD Team**
+**Built Peter Olamojin**
 
